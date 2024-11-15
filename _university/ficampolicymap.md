@@ -23,10 +23,8 @@ permalink: /university/policymap/
       </main>
       </div>
   </div>
-</div>
-<!-- Start of Policy Matrix (SVG) --> 
-<div class="usa-section">  
-  <div class="grid-container" style="max-width:75%;">
+  <div class="grid-container" style="max-width:70%;">
+  <!-- Start of Policy Matrix (SVG) --> 
 <style>
   /* Upated: 11/15/2024 - CJB */
     a {
@@ -1129,6 +1127,8 @@ permalink: /university/policymap/
     </g>
   </g>
 </svg>
-</div>
+
+    </div>
+  </div>
 </div> 
 
