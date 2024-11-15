@@ -25,7 +25,7 @@ permalink: /university/policymap/
   </div>
 </div>
 <!-- Start of Policy Matrix (SVG) --> 
-<div class="usa-section">
+<div class="usa-section" style="max-width:75%;">
 <style>
   /* Upated: 11/15/2024 - CJB */
     a {
