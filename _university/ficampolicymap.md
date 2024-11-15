@@ -100,7 +100,7 @@ The policy map below presents a visual overview of the laws, policies and standa
     } */
 
 </style>
-<div style="width:92%;text-align:center"> 
+<div style="width:80%;text-align:center"> 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1506 1695.8">
   <g id="Executive_Orders_Base" data-name="Executive Orders Base">
     <rect id="Panel" x="665" y="174.8" width="763" height="151" style="fill: #d5e8d4;"/>
