@@ -3,8 +3,8 @@ layout: wide
 collection: university
 title: FICAM Policy Matrix - Map
 permalink: /university/policymap/
-sidenav: university
-sticky_sidenav: true
+#sidenav: university
+#sticky_sidenav: true
 
 # subnav:
   # - text: Back to ICAM Policy Matrix
@@ -17,10 +17,12 @@ sticky_sidenav: true
     <div class="grid-row grid-gap flex-align-start">
       <main class="usa-layout-docs usa-layout-docs__main usa-prose{% if sidenav %} desktop:grid-col-9{% endif %}" id="main-content">
       <h2>Policy Overview</h2>
-      <p>
-      The policy map below presents a visual overview of the laws, policies and standards relevant to FICAM. The documents are organized according to the government body that produced it, and the relationships between the documents are illustrated by arrows connecting them.
-      </p>
-
+        <p>
+        The policy map below presents a visual overview of the laws, policies and standards relevant to FICAM. The documents are organized according to the government body that produced it, and the relationships between the documents are illustrated by arrows connecting them.
+        </p>
+      </main>
+<!-- Start of Policy Matrix (SVG) -->      
+<div class="container-fluid" style="width:80%">
 <style>
   /* Upated: 11/15/2024 - CJB */
     a {
@@ -1123,8 +1125,8 @@ sticky_sidenav: true
     </g>
   </g>
 </svg>
+</div>
 
-      </main>
     </div>
   </div>
 </div> 
