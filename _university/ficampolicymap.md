@@ -1,5 +1,5 @@
 ---
-layout: pagewide
+layout: wide
 collection: university
 title: FICAM Policy Matrix - Map
 permalink: /university/policymap/
