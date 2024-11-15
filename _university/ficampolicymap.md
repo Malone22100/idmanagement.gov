@@ -12,14 +12,13 @@ sticky_sidenav: true
 
 ---
 
-<div class="grid-row">
-  <div class="grid-col-6 tablet:grid-col-8">
+<div class="container usa-section">
   <h2>Policy Overview</h2>
   The policy map below presents a visual overview of the laws, policies and standards relevant to FICAM. The documents are organized according to the government body that produced it, and the relationships between the documents are illustrated by arrows connecting them.
-  </div>
-  <div class="grid-col-6 tablet:grid-col-12">
+</div>
 
-<div class="container-fluid" style="max-width:80%;">
+<div class="grid-row">  
+  <div class="grid-col-6 tablet:grid-col-10">  
 <style>
   /* Upated: 11/15/2024 - CJB */
     a {
@@ -1122,6 +1121,5 @@ sticky_sidenav: true
     </g>
   </g>
 </svg>
-
   </div>
 </div>
