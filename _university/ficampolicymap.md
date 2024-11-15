@@ -4,11 +4,11 @@ collection: university
 title: FICAM Policy Matrix - Map
 permalink: /university/policymap/
 #sidenav: university
-#sticky_sidenav: true
+sticky_sidenav: true
 
-# subnav:
-  # - text: Back to ICAM Policy Matrix
-  #   href: /university/policymatrix/ 
+subnav:
+  - text: Back to ICAM Policy Matrix
+    href: /university/policymatrix/ 
 
 ---
 
@@ -23,7 +23,6 @@ permalink: /university/policymap/
     </div>
   </div>
   <div class="grid-container" style="max-width:85%;margin-top:20px;">
-  <a class="usa-button" type="button" href="{{site.baseurl}}/university/policymatrix/">Back to the ICAM Policy Matrix Page</a>
   <!-- Start of Policy Matrix (SVG) Upated: 11/15/2024 - CJB --> 
   <style>
       /* needed to remove underline in links - do not remove */    
