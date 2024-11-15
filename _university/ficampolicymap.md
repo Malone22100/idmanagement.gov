@@ -638,7 +638,6 @@ sticky_sidenav: true
     <g id="PIV_Guidance_Box" data-name="PIV Guidance Box">
       <g id="eorect-20" data-name="eorect">
         <a href="https://www.idmanagement.gov/laws-policies-standards/guidance-on-executive-branch-wide-requirements-for-issuing-personal-identity-verification-piv-credentials-and-suspension-mechanism/" title="Guidance on Executive Branch-Wide Requirements for Issuing Personal Identity Verification (PIV) Credentials and Suspension Mechanism" target="_blank" rel="noopener noreferrer">
-        
         <rect class="fpbutton" x="997.5" y="435.8" width="311" height="60.5" />
         <text id="PIV_Guidance_Box-2" data-name="PIV Guidance Box" transform="translate(1005.03 456.8) scale(1.13 1)" style="font-family: Arial-BoldMT, Arial; font-weight: 700;"><tspan style="font-size: 10px;"><tspan x="0" y="0">Guidance on Executive Branch-</tspan><tspan x="150.6" y="0" style="letter-spacing: 0em;">W</tspan><tspan x="159.95" y="0">ide Requirements for </tspan></tspan><tspan style="font-size: 10px;"><tspan x="9.95" y="11">Issuing Personal </tspan><tspan x="92.76" y="11" style="letter-spacing: -.06em;">V</tspan><tspan x="98.87" y="11">erification (PIV) Credentials and </tspan></tspan><tspan x="73.02" y="24.22" style="font-size: 10px;">Suspension Mechanism</tspan><tspan x="186.94" y="24.22" style="font-size: 13.22px;"> </tspan></text>
         </a>
@@ -665,19 +664,15 @@ sticky_sidenav: true
     </g>
     <g id="Federal_Common_Policy" data-name="Federal Common Policy">
       <g id="eorect-23" data-name="eorect">
-        <a href="" target="_blank" rel="noopener noreferrer">
         <rect class="fpbutton" x="886.5" y="1304.3" width="101" height="41" style="fill: #cce5ff;"/>
         <text id="Federal_Common_Policy-2" data-name="Federal Common Policy" transform="translate(895.26 1323.26) scale(1.11 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9.33px; font-weight: 700;"><tspan x="0" y="0">Federal Common </tspan><tspan x="24.37" y="10.18">Policy</tspan></text>
-        </a>
         <path d="M987,1304.8v40h-100v-40h100M988,1303.8h-102v42h102v-42h0Z"/>
       </g>
     </g>
     <g id="Federal_Bridge_Certificate_Policy" data-name="Federal Bridge Certificate Policy">
       <g id="eorect-24" data-name="eorect">
-        <a href="" target="_blank" rel="noopener noreferrer">
         <rect class="fpbutton" x="886.5" y="1353.3" width="101" height="41" style="fill: #cce5ff;"/>
         <text id="Federal_Bridge_Certificate_Policy-2" data-name="Federal Bridge Certificate Policy" transform="translate(901.29 1372.26) scale(1.11 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9.33px; font-weight: 700;"><tspan x="0" y="0">Federal Bridge</tspan><tspan x="-5.19" y="10.18">Certificate Policy</tspan></text>
-        </a>
         <path d="M987,1353.8v40h-100v-40h100M988,1352.8h-102v42h102v-42h0Z"/>
       </g>
     </g>
@@ -985,10 +980,8 @@ sticky_sidenav: true
       </a>
     </g>
     <g id="FICAM_Playbooks" data-name="FICAM Playbooks">
-      <a href="" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-66" data-name="gbrect" x="247.5" y="1263.3" width="90" height="43" />
       <text id="FICAM_Playbooks-2" data-name="FICAM Playbooks" transform="translate(276.36 1282.02) scale(1.17 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9px; font-weight: 700;"><tspan x="0" y="0">FICAM </tspan><tspan x="-8.26" y="11">Playbooks</tspan></text>
-      </a>
     </g>
     <g id="ICAM_PM_Playbook" data-name="ICAM PM Playbook">
       <a href="https://www.idmanagement.gov/laws-policies-standards/icam-pm-101/" title="ICAM PM Playbook" target="_blank" rel="noopener noreferrer">
@@ -1045,7 +1038,7 @@ sticky_sidenav: true
       </a>
     </g>
     <g id="Common_Profiles" data-name="Common Profiles">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/common-profiles/" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.idmanagement.gov/laws-policies-standards/common-profiles/" title="Common Profiles" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-76" data-name="gbrect" x="997.5" y="1304.3" width="101" height="41" />
       <text id="Common_Profiles-2" data-name="Common Profiles" transform="translate(1002.4 1327.64) scale(1.17 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9.33px; font-weight: 700;"><tspan x="0" y="0">Common Profiles</tspan></text>
       </a>
