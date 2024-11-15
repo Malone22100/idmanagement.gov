@@ -14,8 +14,9 @@ sticky_sidenav: true
 
 ## Policy Overview
 
+<div class="container">
 The policy map below presents a visual overview of the laws, policies and standards relevant to FICAM. The documents are organized according to the government body that produced it, and the relationships between the documents are illustrated by arrows connecting them.
-
+</div>
 <!-- ![Visual overview of the laws, policies and standards relevant to FICAM, organized according to the government body that produced it. The relationships between the documents are illustrated by arrows connecting them.]({{site.baseurl}}/assets/img/icam-policy-landscape-map.png) -->
 
 <style>
@@ -97,29 +98,9 @@ The policy map below presents a visual overview of the laws, policies and standa
       fill: rgb(145, 119, 172);
       stroke: #000000;
     } */
-    .matrixtext {
-      font-family: Arial-BoldMT, Arial;
-      font-size: 12px; 
-      font-weight: 700;
-    }      
-    .matrixtext:hover {
-      font-family: Arial-BoldMT, Arial;
-      font-size: 12px; 
-      font-weight: 700;
-    }  
-    .matrixtextlg {
-      font-family: Arial-BoldMT, Arial; 
-      font-size: 23.89px; 
-      font-weight: 700;
-    }
-    .matrixsubtext {
-      font-family: Arial-BoldItalicMT, Arial; 
-      font-size: 10px; 
-      font-style: italic; 
-      font-weight: 700;
-    }
+
 </style>
-<div style="width:92%;"> 
+<div style="width:92%;text-align:center"> 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1506 1695.8">
   <g id="Executive_Orders_Base" data-name="Executive Orders Base">
     <rect id="Panel" x="665" y="174.8" width="763" height="151" style="fill: #d5e8d4;"/>
