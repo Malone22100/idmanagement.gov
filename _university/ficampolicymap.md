@@ -3,12 +3,12 @@ layout: pagewide
 collection: university
 title: FICAM Policy Matrix - Map
 permalink: /university/policymap/
-# sidenav: university
+sidenav: university
 sticky_sidenav: true
 
 # subnav:
-  - text: Back to ICAM Policy Matrix
-    href: /university/policymatrix/ 
+  # - text: Back to ICAM Policy Matrix
+  #   href: /university/policymatrix/ 
 
 ---
 
