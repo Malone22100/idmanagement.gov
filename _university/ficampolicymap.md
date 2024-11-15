@@ -19,7 +19,7 @@ sticky_sidenav: true
 </div>
 <!-- ![Visual overview of the laws, policies and standards relevant to FICAM, organized according to the government body that produced it. The relationships between the documents are illustrated by arrows connecting them.]({{site.baseurl}}/assets/img/icam-policy-landscape-map.png) -->
 
-<div class="container" style="width:80%">
+<div class="container" style="width:92%">
 <style>
   /* Upated: 11/15/2024 - CJB */
     a {
