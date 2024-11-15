@@ -19,8 +19,11 @@ The policy map below presents a visual overview of the laws, policies and standa
 <!-- ![Visual overview of the laws, policies and standards relevant to FICAM, organized according to the government body that produced it. The relationships between the documents are illustrated by arrows connecting them.]({{site.baseurl}}/assets/img/icam-policy-landscape-map.png) -->
 
 <style>
-
   /* Upated: 11/15/2024 - CJB */
+    a {
+      text-decoration: none;
+    }
+
   /* Act of Congress Buttons */
     .aocbutton {
       fill: rgb(255, 204, 153);
@@ -30,12 +33,10 @@ The policy map below presents a visual overview of the laws, policies and standa
       cursor: pointer;
       font-family: Arial-BoldMT, Arial; 
       font-size: 12px; 
-      text-decoration: none;
     }
     .aocbutton:hover, .text:hover {
       fill: rgba(0, 0, 0, 0.325);
       stroke: #000000;
-      text-decoration: none;
     }
 
     /* Executive Order Buttons */
@@ -117,7 +118,8 @@ The policy map below presents a visual overview of the laws, policies and standa
       font-style: italic; 
       font-weight: 700;
     }
-</style> 
+</style>
+<div style="width:92%;"> 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1506 1695.8">
   <g id="Executive_Orders_Base" data-name="Executive Orders Base">
     <rect id="Panel" x="665" y="174.8" width="763" height="151" style="fill: #d5e8d4;"/>
@@ -1139,3 +1141,4 @@ The policy map below presents a visual overview of the laws, policies and standa
     </g>
   </g>
 </svg>
+</div>
