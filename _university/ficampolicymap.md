@@ -21,7 +21,7 @@ permalink: /university/policymap/
       </main>
     </div>
   </div>
-  <div class="grid-container" style="max-width:75%;margin-top:20px;">
+  <div class="grid-container" style="max-width:85%;margin-top:20px;">
   <!-- Start of Policy Matrix (SVG) Upated: 11/15/2024 - CJB --> 
   <style>
       /* needed to remove underline in links - do not remove */    
