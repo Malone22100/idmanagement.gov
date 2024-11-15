@@ -117,7 +117,7 @@ sticky_sidenav: true
       <rect id="Panel" x="665" y="174.8" width="763" height="151" style="fill: #d5e8d4;"/>
       <text id="Executive_Orders" data-name="Executive Orders" transform="translate(1248.13 317.68)" style="font-family: Arial-BoldMT, Arial; font-size: 11px; font-weight: 700;"><tspan x="0" y="0">Executive Orders and Directives</tspan></text>
     </g>
-    <g id="Act_of_Congress_Baase" data-name="Act of Congress Baase">
+    <g id="Act_of_Congress_Base" data-name="Act of Congress Base">
       <rect id="Panel-2" data-name="Panel" x="37" y="174.8" width="631" height="151" style="fill: #ffe6cc;"/>
       <text transform="translate(46.16 319.03)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">Act of Congress</tspan></text>
     </g>
