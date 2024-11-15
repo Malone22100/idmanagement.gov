@@ -664,15 +664,19 @@ sticky_sidenav: true
     </g>
     <g id="Federal_Common_Policy" data-name="Federal Common Policy">
       <g id="eorect-23" data-name="eorect">
+        <a href="https://www.idmanagement.gov/laws-policies-standards/common-profiles/" title="Federal Common Policy" target="_blank" rel="noopener noreferrer">
         <rect class="fpbutton" x="886.5" y="1304.3" width="101" height="41" style="fill: #cce5ff;"/>
         <text id="Federal_Common_Policy-2" data-name="Federal Common Policy" transform="translate(895.26 1323.26) scale(1.11 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9.33px; font-weight: 700;"><tspan x="0" y="0">Federal Common </tspan><tspan x="24.37" y="10.18">Policy</tspan></text>
+        </a>
         <path d="M987,1304.8v40h-100v-40h100M988,1303.8h-102v42h102v-42h0Z"/>
       </g>
     </g>
     <g id="Federal_Bridge_Certificate_Policy" data-name="Federal Bridge Certificate Policy">
       <g id="eorect-24" data-name="eorect">
+        <a href="https://www.idmanagement.gov/laws-policies-standards/fbca-profiles/" title="Federal Bridge Certificate Policy" target="_blank" rel="noopener noreferrer">
         <rect class="fpbutton" x="886.5" y="1353.3" width="101" height="41" style="fill: #cce5ff;"/>
         <text id="Federal_Bridge_Certificate_Policy-2" data-name="Federal Bridge Certificate Policy" transform="translate(901.29 1372.26) scale(1.11 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9.33px; font-weight: 700;"><tspan x="0" y="0">Federal Bridge</tspan><tspan x="-5.19" y="10.18">Certificate Policy</tspan></text>
+        </a>
         <path d="M987,1353.8v40h-100v-40h100M988,1352.8h-102v42h102v-42h0Z"/>
       </g>
     </g>
