@@ -29,6 +29,7 @@ sticky_sidenav: true
     </div>
   </div>
   <div class="grid-container" style="max-width:85%;margin-top:20px;">
+
   <!-- Start of Policy Matrix (SVG) Upated: 11/15/2024 - CJB --> 
   <style>
       /* needed to remove underline in links - do not remove */    
@@ -1132,8 +1133,7 @@ sticky_sidenav: true
       </g>
     </g>
   </svg>
-<!-- End of Policy Matrix (SVG) -->
-    </div>
-  </div>
-</div> 
+<!-- End of Policy Matrix (SVG) - CJB -->
+  </div> <!-- grid-container -->
+</div> <!-- usa-section --> 
 
