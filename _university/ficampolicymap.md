@@ -16,14 +16,12 @@ permalink: /university/policymap/
   <div class="grid-container">
     <div class="grid-row grid-gap flex-align-start">
       <main class="usa-layout-docs usa-layout-docs__main usa-prose{% if sidenav %} desktop:grid-col-9{% endif %}" id="main-content">
-      <h2>Policy Overview</h2>
-        <p>
-        The policy map below presents a visual overview of the laws, policies and standards relevant to FICAM. The documents are organized according to the government body that produced it, and the relationships between the documents are illustrated by arrows connecting them.
-        </p>
+        <h2>Policy Overview</h2>
+        <p>The policy map below presents a visual overview of the laws, policies and standards relevant to FICAM. The documents are organized according to the government body that produced it, and the relationships between the documents are illustrated by arrows connecting them.</p>
       </main>
-      </div>
+    </div>
   </div>
-  <div class="grid-container" style="max-width:75%;margin-top:12px;">
+  <div class="grid-container" style="max-width:75%;margin-top:20px;">
   <!-- Start of Policy Matrix (SVG) Upated: 11/15/2024 - CJB --> 
   <style>
       /* needed to remove underline in links - do not remove */    
