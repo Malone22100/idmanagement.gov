@@ -21,8 +21,14 @@ permalink: /university/policymap/
         The policy map below presents a visual overview of the laws, policies and standards relevant to FICAM. The documents are organized according to the government body that produced it, and the relationships between the documents are illustrated by arrows connecting them.
         </p>
       </main>
-<!-- Start of Policy Matrix (SVG) -->      
-<div class="container-fluid" style="width:80%">
+      </div>
+  </div>
+</div>
+<div class="usa-section">
+  <div class="grid-container">
+    <div class="grid-row grid-gap flex-align-start">
+    <!-- Start of Policy Matrix (SVG) -->      
+
 <style>
   /* Upated: 11/15/2024 - CJB */
     a {
@@ -1125,8 +1131,8 @@ permalink: /university/policymap/
     </g>
   </g>
 </svg>
-</div>
 
     </div>
   </div>
 </div> 
+
