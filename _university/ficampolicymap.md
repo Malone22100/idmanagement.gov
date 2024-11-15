@@ -20,9 +20,6 @@ The policy map below presents a visual overview of the laws, policies and standa
 
 <style>
 
-  .a {
-    text-decoration: none;
-  } 
   /* Upated: 11/15/2024 - CJB */
   /* Act of Congress Buttons */
     .aocbutton {
@@ -33,10 +30,12 @@ The policy map below presents a visual overview of the laws, policies and standa
       cursor: pointer;
       font-family: Arial-BoldMT, Arial; 
       font-size: 12px; 
+      text-decoration: none;
     }
     .aocbutton:hover, .text:hover {
       fill: rgba(0, 0, 0, 0.325);
       stroke: #000000;
+      text-decoration: none;
     }
 
     /* Executive Order Buttons */
