@@ -26,7 +26,6 @@ permalink: /university/policymap/
 </div>
 <div class="usa-section">
   <div class="grid-container">
-    <div class="grid-row grid-gap flex-align-start">
     <!-- Start of Policy Matrix (SVG) -->      
 
 <style>
@@ -1132,7 +1131,6 @@ permalink: /university/policymap/
   </g>
 </svg>
 
-    </div>
   </div>
 </div> 
 
