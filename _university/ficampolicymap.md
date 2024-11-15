@@ -18,11 +18,13 @@ sticky_sidenav: true
       <main class="usa-layout-docs usa-layout-docs__main usa-prose{% if sidenav %} desktop:grid-col-9{% endif %}" id="main-content">
         <h2>Policy Overview</h2>
         <p>The policy map below presents a visual overview of the laws, policies and standards relevant to FICAM. The documents are organized according to the government body that produced it, and the relationships between the documents are illustrated by arrows connecting them.</p>
-        <p><a href="{{site.baseurl}}/university/policymatrix/" class="usa-button" type="button">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-          <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#arrow_back"></use>
-        </svg> Back to Policy Matrix Page
-        </a></p>
+        <p>
+          <a href="{{site.baseurl}}/university/policymatrix/" class="usa-button" type="button">
+            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+              <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#arrow_back"></use>
+            </svg>  Back to FICAM Policy Matrix
+          </a>
+        </p>
       </main>
     </div>
   </div>
