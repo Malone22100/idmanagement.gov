@@ -12,13 +12,14 @@ sticky_sidenav: true
 
 ---
 
-<div class="container">
-## Policy Overview
-
-The policy map below presents a visual overview of the laws, policies and standards relevant to FICAM. The documents are organized according to the government body that produced it, and the relationships between the documents are illustrated by arrows connecting them.
+<div class="container" style="width:80%">
+<h2>Policy Overview</h2>
+<p>The policy map below presents a visual overview of the laws, policies and standards relevant to FICAM. The documents are organized according to the government body that produced it, and the relationships between the documents are illustrated by arrows connecting them.
+</p>
 </div>
 <!-- ![Visual overview of the laws, policies and standards relevant to FICAM, organized according to the government body that produced it. The relationships between the documents are illustrated by arrows connecting them.]({{site.baseurl}}/assets/img/icam-policy-landscape-map.png) -->
 
+<div class="container" style="width:80%">
 <style>
   /* Upated: 11/15/2024 - CJB */
     a {
@@ -100,7 +101,6 @@ The policy map below presents a visual overview of the laws, policies and standa
     } */
 
 </style>
-<div class="container-fluid"> 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1506 1695.8">
   <g id="Executive_Orders_Base" data-name="Executive Orders Base">
     <rect id="Panel" x="665" y="174.8" width="763" height="151" style="fill: #d5e8d4;"/>
