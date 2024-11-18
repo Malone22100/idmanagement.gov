@@ -169,7 +169,7 @@ Click on the name of a law or directive to see more details about it, and for a 
       <strong>{{document.longName}}</strong> 
     </button>
   </h4>
-  <div id="gsa-b{{forloop.index}}" class="usa-accordion__content usa-prose gsa-target-accordion-content-area gsa-card" onclick="navigateTo('{{document.externalURL | datapage_url: laws-policies-standards }}]')" onkeydown="navigateTo('{{document.externalURL | datapage_url: laws-policies-standards }}')" aria-label="{{document.longName}}" tabindex="0" style="border-color: {{lawcolor}};">
+  <div id="gsa-b{{forloop.index}}" class="usa-accordion__content usa-prose gsa-target-accordion-content-area gsa-card" onclick="navigateTo('{{ document.externalURL }}')" onkeydown="navigateTo('{{ document.externalURL }}')" aria-label="{{document.longName}}" tabindex="0" style="border-color: {{lawcolor}};">
         <p>{% if document.published %} Date: {{document.published | date_to_string }} {% endif %}</p>
         <p>
           {{document.description}}
