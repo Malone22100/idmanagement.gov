@@ -663,7 +663,7 @@ sticky_sidenav: true
       </g>
     </g>
     <g id="Federal_Common_Policy" data-name="Federal Common Policy">
-      <g id="eorect-23" data-name="eorect">
+      <g id="eorect-23" data-name="eorect"><!-- Not updated -->
         <a href="https://www.idmanagement.gov/laws-policies-standards/common-profiles/" title="Federal Common Policy" target="_blank" rel="noopener noreferrer">
         <rect class="fpbutton" x="886.5" y="1304.3" width="101" height="41" style="fill: #cce5ff;"/>
         <text id="Federal_Common_Policy-2" data-name="Federal Common Policy" transform="translate(895.26 1323.26) scale(1.11 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9.33px; font-weight: 700;"><tspan x="0" y="0">Federal Common </tspan><tspan x="24.37" y="10.18">Policy</tspan></text>
@@ -672,7 +672,7 @@ sticky_sidenav: true
       </g>
     </g>
     <g id="Federal_Bridge_Certificate_Policy" data-name="Federal Bridge Certificate Policy">
-      <g id="eorect-24" data-name="eorect">
+      <g id="eorect-24" data-name="eorect"><!-- Not updated -->
         <a href="https://www.idmanagement.gov/laws-policies-standards/fbca-profiles/" title="Federal Bridge Certificate Policy" target="_blank" rel="noopener noreferrer">
         <rect class="fpbutton" x="886.5" y="1353.3" width="101" height="41" style="fill: #cce5ff;"/>
         <text id="Federal_Bridge_Certificate_Policy-2" data-name="Federal Bridge Certificate Policy" transform="translate(901.29 1372.26) scale(1.11 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9.33px; font-weight: 700;"><tspan x="0" y="0">Federal Bridge</tspan><tspan x="-5.19" y="10.18">Certificate Policy</tspan></text>
@@ -682,31 +682,31 @@ sticky_sidenav: true
     </g>
     <!-- NIST Technical Standards Section -->
     <g id="NIST_RMF" data-name="NIST RMF">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nist-rmf/" title="NIST RMF" target="_blank" rel="noopener noreferrer">
+      <a href="https://csrc.nist.gov/projects/risk-management" title="NIST RMF" target="_blank" rel="noopener noreferrer">
       <rect id="gbrect-20" class="tsbutton" data-name="gbrect" x="47.41" y="574.3" width="90.19" height="41.5"/>
       <text id="NIST_RMF-2" data-name="NIST RMF" transform="translate(69.25 598.56)" style="font-family: Arial-BoldMT, Arial; font-size: 9.8px; font-weight: 700;"><tspan x="0" y="0">NIST RMF</tspan></text>
       </a>
     </g>
     <g id="SOFA-B">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/sofa-b/" title="SOFA-B" target="_blank" rel="noopener noreferrer">
+      <a href="https://pages.nist.gov/SOFA/SOFA.html" title="SOFA-B" target="_blank" rel="noopener noreferrer">
       <rect id="gbrect-21" class="tsbutton" data-name="gbrect" x="47.41" y="624.3" width="90.19" height="41.5"/>
       <text id="SOFA-B-2" data-name="SOFA-B" transform="translate(73.9 648.56)" style="font-family: Arial-BoldMT, Arial; font-size: 9.8px; font-weight: 700;"><tspan x="0" y="0">SO</tspan><tspan x="14.16" y="0" style="letter-spacing: -.06em;">F</tspan><tspan x="19.6" y="0">A-B</tspan></text>
       </a>
     </g>
-    <g id="SP_1800-13" data-name="SP 1800-13">
+    <g id="SP_1800-13" data-name="SP 1800-13"><!-- Not updated -->
       <a href="https://www.idmanagement.gov/laws-policies-standards/nist-sp-1800-13/" title="SP 1800-13" target="_blank" rel="noopener noreferrer">
       <rect id="gbrect-22" class="tsbutton" data-name="gbrect" x="47.41" y="674.3" width="90.19" height="41.5"/>
       <text id="SP_1800-13-2" data-name="SP 1800-13" transform="translate(66.58 698.56)" style="font-family: Arial-BoldMT, Arial; font-size: 9.8px; font-weight: 700;"><tspan x="0" y="0">S</tspan><tspan x="6.53" y="0" style="letter-spacing: -.02em;">P</tspan><tspan x="12.89" y="0" xml:space="preserve"> 1800-13</tspan></text>
       </a>
     </g>
     <g id="SP_1800-207" data-name="SP 1800-207">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nist-sp-800-207/" title="SP 1800-207" target="_blank" rel="noopener noreferrer">
+      <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf" title="SP 1800-207" target="_blank" rel="noopener noreferrer">
       <rect id="gbrect-23" class="tsbutton" data-name="gbrect" x="47.41" y="724.3" width="90.19" height="41.5" />
       <text id="SP_1800-207-2" data-name="SP 1800-207" transform="translate(63.84 748.56)" style="font-family: Arial-BoldMT, Arial; font-size: 9.8px; font-weight: 700;"><tspan x="0" y="0">S</tspan><tspan x="6.53" y="0" style="letter-spacing: -.02em;">P</tspan><tspan x="12.89" y="0" xml:space="preserve"> 1800-207</tspan></text>
       </a>
     </g>
     <g id="NIST_Privacy_Framework" data-name="NIST Privacy Framework">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nist-privacy-framework/" title="NIST Privacy Framework" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.nist.gov/privacy-framework/privacy-framework" title="NIST Privacy Framework" target="_blank" rel="noopener noreferrer">
       <rect id="gbrect-24" class="tsbutton" data-name="gbrect" x="47.41" y="774.3" width="90.19" height="41.5" />
       <text id="NIST_Privacy_Framework-2" data-name="NIST Privacy Framework" transform="translate(62.39 792.68)" style="font-family: Arial-BoldMT, Arial; font-size: 9.8px; font-weight: 700;"><tspan x="0" y="0">NIST Privacy </tspan><tspan x="3.81" y="11.76">Framework</tspan></text>
       </a>
@@ -714,44 +714,44 @@ sticky_sidenav: true
     <g id="SP_White_Box" data-name="SP White Box">
       <rect id="whitepanel" x="167.41" y="604.3" width="100.09" height="91" style="fill: #fff; stroke: #000; stroke-miterlimit: 10;"/>
     </g>
-    <g id="SP_800-53A" data-name="SP 800-53A">
+    <g id="SP_800-53A" data-name="SP 800-53A"><!-- Not updated -->
       <a href="https://www.idmanagement.gov/laws-policies-standards/nist-sp-800-53a/" title="SP 800-53A" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-25" data-name="gbrect" x="176.41" y="653.3" width="81.09" height="32" />
       <text id="SP_800-53A-2" data-name="SP 800-53A" transform="translate(190.26 673.26)" style="font-family: Arial-BoldMT, Arial; font-size: 9.8px; font-weight: 700;"><tspan x="0" y="0">S</tspan><tspan x="6.53" y="0" style="letter-spacing: -.02em;">P</tspan><tspan x="12.89" y="0" xml:space="preserve"> 800-53</tspan><tspan x="46.12" y="0" style="letter-spacing: -.04em;">A</tspan></text>
       </a>
     </g>
     <g id="SP_800-53" data-name="SP 800-53">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nist-sp-800-53/" title="SP 800-53" target="_blank" rel="noopener noreferrer">
+      <a href="https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final" title="SP 800-53" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-26" data-name="gbrect" x="176.41" y="615.3" width="81.09" height="32" />
       <text id="SP_800-53-2" data-name="SP 800-53" transform="translate(193.82 635.26)" style="font-family: Arial-BoldMT, Arial; font-size: 9.8px; font-weight: 700;"><tspan x="0" y="0">S</tspan><tspan x="6.53" y="0" style="letter-spacing: -.02em;">P</tspan><tspan x="12.89" y="0" xml:space="preserve"> 800-53</tspan></text>
       </a>
     </g>
     <g id="PIV_Privileged_User_Guide" data-name="PIV Privileged User Guide">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/piv-privileged-user-guide/" title="PIV Privileged User Guide" target="_blank" rel="noopener noreferrer">
+      <a href="https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04212016.pdf" title="PIV Privileged User Guide" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-27" data-name="gbrect" x="185.5" y="545.3" width="82.97" height="30.97" />
       <text id="PIV_Privileged_User_Guide-2" data-name="PIV Privileged User Guide" transform="translate(195.42 559.91)" style="font-family: Arial-BoldMT, Arial; font-size: 9.61px; font-weight: 700;"><tspan x="0" y="0">PIV Privileged </tspan><tspan x="6.41" y="9.61">User Guide</tspan></text>
       </a>
     </g>
     <g id="SP_800-37" data-name="SP 800-37">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nist-sp-800-37/" title="SP 800-37" target="_blank" rel="noopener noreferrer">
+      <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf" title="SP 800-37" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-28" data-name="gbrect" x="337.3" y="545.3" width="71.2" height="22" />
       <text id="SP_800-37-2" data-name="SP 800-37" transform="translate(350.68 558.54) scale(1.19 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8px; font-weight: 700;"><tspan x="0" y="0">S</tspan><tspan x="5.34" y="0" style="letter-spacing: -.02em;">P</tspan><tspan x="10.53" y="0" xml:space="preserve"> 800-37</tspan></text>
       </a>
     </g>
     <g id="SP_800-162" data-name="SP 800-162">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nist-sp-800-162/" title="SP 800-162" target="_blank" rel="noopener noreferrer">
+      <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-162.pdf" title="SP 800-162" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-29" data-name="gbrect" x="337.3" y="574.3" width="71.2" height="21.17" />
       <text id="SP_800-162-2" data-name="SP 800-162" transform="translate(349.2 588.05) scale(1.13 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8px; font-weight: 700;"><tspan x="0" y="0">S</tspan><tspan x="5.34" y="0" style="letter-spacing: -.02em;">P</tspan><tspan x="10.53" y="0" xml:space="preserve"> 800-162</tspan></text>
       </a>
     </g>
     <g id="SP_800-122" data-name="SP 800-122">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nist-sp-800-122/" title="SP 800-122" target="_blank" rel="noopener noreferrer">
+      <a href="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-122.pdf" title="SP 800-122" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-30" data-name="gbrect" x="337.3" y="605.3" width="71.2" height="21.17" />
       <text id="SP_800-122-2" data-name="SP 800-122" transform="translate(349.2 619.05) scale(1.13 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8px; font-weight: 700;"><tspan x="0" y="0">S</tspan><tspan x="5.34" y="0" style="letter-spacing: -.02em;">P</tspan><tspan x="10.53" y="0" xml:space="preserve"> 800-122</tspan></text>
       </a>
     </g>
     <g id="SP_800-205" data-name="SP 800-205">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nist-sp-800-205/" title="SP 800-205" target="_blank" rel="noopener noreferrer">
+      <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-205.pdf" title="SP 800-205" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-31" data-name="gbrect" x="337.3" y="634.3" width="71.2" height="21.17" />
       <text id="SP_800-205-2" data-name="SP 800-205" transform="translate(349.2 648.05) scale(1.13 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8px; font-weight: 700;"><tspan x="0" y="0">S</tspan><tspan x="5.34" y="0" style="letter-spacing: -.02em;">P</tspan><tspan x="10.53" y="0" xml:space="preserve"> 800-205</tspan></text>
       </a>
@@ -760,38 +760,38 @@ sticky_sidenav: true
       <!-- Panel, no linkage -->
       <rect id="whitepanel-2" data-name="whitepanel" x="335.5" y="694.3" width="98" height="101" style="fill: #fff; stroke: #000; stroke-miterlimit: 10;"/>
     </g>
-    <g id="SP_800-63" data-name="SP 800-63">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nist-sp-800-63/" title="SP 800-63" target="_blank" rel="noopener noreferrer">
+    <g id="SP_800-63" data-name="SP 800-63"><!-- updated link to intro -->
+      <a href="https://pages.nist.gov/800-63-4/sp800-63/introduction/" title="SP 800-63" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-32" data-name="gbrect" x="346.28" y="705.3" width="74.22" height="17.23"/>
       <text id="SP_800-63-2" data-name="SP 800-63" transform="translate(359.53 717.03) scale(1.27 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8px; font-weight: 700;"><tspan x="0" y="0">S</tspan><tspan x="5.34" y="0" style="letter-spacing: -.02em;">P</tspan><tspan x="10.53" y="0" xml:space="preserve"> 800-63</tspan></text>
       </a>
     </g>
     <g id="SP_800-63A" data-name="SP 800-63A">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nist-sp-800-63a/" title="SP 800-63A" target="_blank" rel="noopener noreferrer">
+      <a href="https://csrc.nist.gov/pubs/sp/800/63/a/4/ipd" title="SP 800-63A" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-33" data-name="gbrect" x="346.28" y="725.3" width="74.22" height="17.23" />
       <text id="SP_800-63A-2" data-name="SP 800-63A" transform="translate(355.85 737.03) scale(1.27 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8px; font-weight: 700;"><tspan x="0" y="0">S</tspan><tspan x="5.34" y="0" style="letter-spacing: -.02em;">P</tspan><tspan x="10.53" y="0" xml:space="preserve"> 800-63</tspan><tspan x="37.66" y="0" style="letter-spacing: -.04em;">A</tspan></text>
       </a>
     </g>
     <g id="SP_800-63B" data-name="SP 800-63B">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nist-sp-800-63b/" title="SP 800-63B" target="_blank" rel="noopener noreferrer">
+      <a href="https://csrc.nist.gov/pubs/sp/800/63/b/4/ipd" title="SP 800-63B" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-34" data-name="gbrect" x="346.28" y="745.3" width="74.22" height="17.23" />
       <text id="SP_800-63B-2" data-name="SP 800-63B" transform="translate(355.85 757.03) scale(1.27 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8px; font-weight: 700;"><tspan x="0" y="0">S</tspan><tspan x="5.34" y="0" style="letter-spacing: -.02em;">P</tspan><tspan x="10.53" y="0" xml:space="preserve"> 800-63B</tspan></text>
       </a>
     </g>
     <g id="SP_800-63C1" data-name="SP 800-63C1">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nist-sp-800-63c/" title="SP 800-63C1" target="_blank" rel="noopener noreferrer">
+      <a href="https://csrc.nist.gov/pubs/sp/800/63/c/4/ipd" title="SP 800-63C1" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-35" data-name="gbrect" x="346.28" y="765.3" width="74.22" height="17.23" />
       <text id="SP_800-63C1-2" data-name="SP 800-63C-2" transform="translate(355.85 777.03) scale(1.27 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8px; font-weight: 700;"><tspan x="0" y="0">S</tspan><tspan x="5.34" y="0" style="letter-spacing: -.02em;">P</tspan><tspan x="10.53" y="0" xml:space="preserve"> 800-63C</tspan></text>
       </a>
     </g>
     <g id="NIST_IAM_Roadmap1" data-name="NIST IAM Roadmap1">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nist-iam-roadmap/" title="NIST IAM Roadmap" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.nist.gov/identity-access-management/identity-and-access-management-roadmap" title="NIST IAM Roadmap" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-36" data-name="gbrect" x="497.39" y="605.3" width="71.11" height="38.89" />
       <text id="NIST_IAM_Roadmap1-2" data-name="NIST_IAM_Roadmap1-2" transform="translate(513.94 623.24) scale(.79 1)" style="font-family: Arial-BoldMT, Arial; font-size: 11px; font-weight: 700;"><tspan x="0" y="0">NIST IAM</tspan><tspan x="-.92" y="11">Roadmap</tspan></text>
       </a>
     </g>
     <g id="EPACS_Box" data-name="EPACS Box">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/enterprise-physical-access-control-systems-e-pacs-recommended-procurement-language-for-rfps/"  title="Enterprise Physical Access Control Systems (E-PACS) Recommended Procurement Language for RFPs" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.idmanagement.gov/docs/pacs-pki-epacs-procurement.pdf"  title="Enterprise Physical Access Control Systems (E-PACS) Recommended Procurement Language for RFPs" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-37" data-name="gbrect" x="526.39" y="660.3" width="134.11" height="51" />
       <text id="EPACS_Box-2" data-name="EPACS Box" transform="translate(544.57 677.74) scale(.79 1)" style="font-family: Arial-BoldMT, Arial; font-size: 11px; font-weight: 700;"><tspan x="0" y="0">E-</tspan><tspan x="11" y="0" style="letter-spacing: -.07em;">P</tspan><tspan x="17.52" y="0">ACS Recommended</tspan><tspan x="-.1" y="12">Procurement Language</tspan><tspan x="38.41" y="24">for RFPs</tspan></text>
       </a>
@@ -802,25 +802,25 @@ sticky_sidenav: true
       <text id="NIST_Inter-Agency_Reports_Text" data-name="NIST Inter-Agency Reports Text" transform="translate(498.57 744.74) scale(1.27 1)" style="font-family: ArialMT, Arial; font-size: 11px;"><tspan x="0" y="0">NIS</tspan><tspan x="18.34" y="0" style="letter-spacing: -.02em;">T</tspan><tspan x="24.86" y="0" xml:space="preserve"> Inter-Agency Reports</tspan></text>
     </g>
     <g id="NISTIR_7966" data-name="NISTIR 7966">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nistir-7966/" title="NISTIR 7966" target="_blank" rel="noopener noreferrer">
+      <a href="https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.7966.pdf" title="NISTIR 7966" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-38" data-name="gbrect" x="487.28" y="754.3" width="90.22" height="31" />
       <text id="NISTIR_7966t" data-name="NISTIR 7966t" transform="translate(499.39 773.38) scale(1.27 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9px; font-weight: 700;"><tspan x="0" y="0">NISTIR 7966</tspan></text>
       </a>
     </g>
     <g id="NISTIR_8149" data-name="NISTIR 8149">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nistir-8149/" title="NISTIR 8149" target="_blank" rel="noopener noreferrer">
+      <a href="https://csrc.nist.gov/pubs/ir/8149/final" title="NISTIR 8149" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-39" data-name="gbrect" x="487.28" y="795.3" width="90.22" height="31" />
       <text id="NISTIR_8149t" data-name="NISTIR 8149t" transform="translate(499.39 814.38) scale(1.27 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9px; font-weight: 700;"><tspan x="0" y="0">NISTIR 8149</tspan></text>
       </a>
     </g>
     <g id="NISTIR_8335" data-name="NISTIR 8335">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nistir-8335/" title="NISTIR 8335" target="_blank" rel="noopener noreferrer">
+      <a href="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8335-draft.pdf" title="NISTIR 8335" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-40" data-name="gbrect" x="587.28" y="754.3" width="90.22" height="31" />
       <text id="NISTIR_8335t" data-name="NISTIR 8335t" transform="translate(599.39 773.38) scale(1.27 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9px; font-weight: 700;"><tspan x="0" y="0">NISTIR 8335</tspan></text>
       </a>
     </g>
     <g id="NISTIR_8344" data-name="NISTIR 8344">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nistir-8344/" title="NISTIR 8344" target="_blank" rel="noopener noreferrer">
+      <a href="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8344-draft.pdf" title="NISTIR 8344" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-41" data-name="gbrect" x="587.28" y="795.3" width="90.22" height="31" />
       <text id="NISTIR_8344t" data-name="NISTIR 8344t" transform="translate(599.39 814.38) scale(1.27 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9px; font-weight: 700;"><tspan x="0" y="0">NISTIR 8344</tspan></text>
       </a>
@@ -836,98 +836,98 @@ sticky_sidenav: true
       <text id="FIPS_201_related_standards" data-name="FIPS 201 related standards" transform="translate(831.76 658.74) scale(1.27 1)" style="font-family: ArialMT, Arial; font-size: 11px;"><tspan x="0" y="0">FIPS 201 related standards</tspan></text>
     </g>
     <g id="SP_800-73" data-name="SP 800-73">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nist-sp-800-73/" title="SP 800-73" target="_blank" rel="noopener noreferrer">
+      <a href="https://csrc.nist.gov/pubs/sp/800/73/4/upd1/final" title="SP 800-73" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-42" data-name="gbrect" x="787.23" y="678.3" width="76.34" height="25.1" />
       <text id="SP_800-73-2" data-name="SP 800-73" transform="translate(800.44 694) scale(1.33 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8px; font-weight: 700;"><tspan x="0" y="0">S</tspan><tspan x="5.34" y="0" style="letter-spacing: -.02em;">P</tspan><tspan x="10.53" y="0" xml:space="preserve"> 800-73</tspan></text>
       </a>
     </g>
     <g id="SP_800-79" data-name="SP 800-79">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nist-sp-800-79/" title="SP 800-79" target="_blank" rel="noopener noreferrer">
+      <a href="https://csrc.nist.gov/pubs/sp/800/79/2/final" title="SP 800-79" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-43" data-name="gbrect" x="787.23" y="718.3" width="76.34" height="25.1" />
       <text id="SP_800-79-2" data-name="SP 800-79" transform="translate(800.44 734) scale(1.33 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8px; font-weight: 700;"><tspan x="0" y="0">S</tspan><tspan x="5.34" y="0" style="letter-spacing: -.02em;">P</tspan><tspan x="10.53" y="0" xml:space="preserve"> 800-79</tspan></text>
       </a>
     </g>
     <g id="SP_800-96" data-name="SP 800-96">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nist-sp-800-96/" title="SP 800-96" target="_blank" rel="noopener noreferrer">
+      <a href="https://csrc.nist.gov/pubs/sp/800/96/final" title="SP 800-96" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-44" data-name="gbrect" x="787.23" y="758.3" width="76.34" height="25.1" />
       <text id="SP_800-96-2" data-name="SP 800-96" transform="translate(800.44 774) scale(1.33 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8px; font-weight: 700;"><tspan x="0" y="0">S</tspan><tspan x="5.34" y="0" style="letter-spacing: -.02em;">P</tspan><tspan x="10.53" y="0" xml:space="preserve"> 800-96</tspan></text>
       </a>
     </g>
     <g id="SP_800-76" data-name="SP 800-76">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nist-sp-800-76/" title="SP 800-76" target="_blank" rel="noopener noreferrer">
+      <a href="https://csrc.nist.gov/pubs/sp/800/76/2/final" title="SP 800-76" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-45" data-name="gbrect" x="877.23" y="678.3" width="76.34" height="25.1" />
       <text id="SP_800-76-2" data-name="SP 800-76" transform="translate(890.44 694) scale(1.33 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8px; font-weight: 700;"><tspan x="0" y="0">S</tspan><tspan x="5.34" y="0" style="letter-spacing: -.02em;">P</tspan><tspan x="10.53" y="0" xml:space="preserve"> 800-76</tspan></text>
       </a>
     </g>
     <g id="SP_800-85" data-name="SP 800-85">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nist-sp-800-85/" title="SP 800-85" target="_blank" rel="noopener noreferrer">
+      <a href="https://csrc.nist.gov/pubs/sp/800/85/b/final" title="SP 800-85" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-46" data-name="gbrect" x="877.23" y="718.3" width="76.34" height="25.1" />
       <text id="SP_800-85-2" data-name="SP 800-85" transform="translate(890.44 734) scale(1.33 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8px; font-weight: 700;"><tspan x="0" y="0">S</tspan><tspan x="5.34" y="0" style="letter-spacing: -.02em;">P</tspan><tspan x="10.53" y="0" xml:space="preserve"> 800-85</tspan></text>
       </a>
     </g>
     <g id="SP_800-116" data-name="SP 800-116">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nist-sp-800-116/" title="SP 800-116" target="_blank" rel="noopener noreferrer">
+      <a href="https://csrc.nist.gov/pubs/sp/800/116/r1/final" title="SP 800-116" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-47" data-name="gbrect" x="877.23" y="758.3" width="76.34" height="25.1" />
       <text id="SP_800-116-2" data-name="SP 800-116-2" transform="translate(887.78 774) scale(1.33 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8px; font-weight: 700;"><tspan x="0" y="0">S</tspan><tspan x="5.34" y="0" style="letter-spacing: -.02em;">P</tspan><tspan x="10.53" y="0" xml:space="preserve"> 800-</tspan><tspan x="28.76" y="0" style="letter-spacing: -.06em;">1</tspan><tspan x="32.77" y="0">16</tspan></text>
       </a>
     </g>
     <g id="SP_800-78" data-name="SP 800-78">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nist-sp-800-78/" title="SP 800-78" target="_blank" rel="noopener noreferrer">
+      <a href="https://csrc.nist.gov/pubs/sp/800/78/4/final" title="SP 800-78" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-48" data-name="gbrect" x="967.23" y="678.3" width="76.34" height="25.1" />
       <text id="SP_800-78-2" data-name="SP 800-78" transform="translate(980.44 694) scale(1.33 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8px; font-weight: 700;"><tspan x="0" y="0">S</tspan><tspan x="5.34" y="0" style="letter-spacing: -.02em;">P</tspan><tspan x="10.53" y="0" xml:space="preserve"> 800-78</tspan></text>
       </a>
     </g>
     <g id="SP_800-87" data-name="SP 800-87">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nist-sp-800-87/" title="SP 800-87" target="_blank" rel="noopener noreferrer">
+      <a href="https://csrc.nist.gov/pubs/sp/800/87/r2/final" title="SP 800-87" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-49" data-name="gbrect" x="967.23" y="718.3" width="76.34" height="25.1" />
       <text id="SP_800-87-2" data-name="SP 800-87" transform="translate(980.44 734) scale(1.33 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8px; font-weight: 700;"><tspan x="0" y="0">S</tspan><tspan x="5.34" y="0" style="letter-spacing: -.02em;">P</tspan><tspan x="10.53" y="0" xml:space="preserve"> 800-87</tspan></text>
       </a>
     </g>
     <g id="SP_800-157" data-name="SP 800-157">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nist-sp-800-157/" title="SP 800-157" target="_blank" rel="noopener noreferrer">
+      <a href="https://csrc.nist.gov/pubs/sp/800/157/final" title="SP 800-157" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-50" data-name="gbrect" x="967.23" y="758.3" width="76.34" height="25.1" />
       <text id="SP_800-157-2" data-name="SP 800-157" transform="translate(977.48 774) scale(1.33 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8px; font-weight: 700;"><tspan x="0" y="0">S</tspan><tspan x="5.34" y="0" style="letter-spacing: -.02em;">P</tspan><tspan x="10.53" y="0" xml:space="preserve"> 800-157</tspan></text>
       </a>
     </g>
     <g id="SP_800-171" data-name="SP 800-171">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nist-sp-800-171/" title="SP 800-171" target="_blank" rel="noopener noreferrer">
+      <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171r2.pdf" title="SP 800-171" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-51" data-name="gbrect" x="787.23" y="544.3" width="80.27" height="23" />
       <text id="SP_800-171-2" data-name="SP 800-171" transform="translate(799.48 559) scale(1.33 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8px; font-weight: 700;"><tspan x="0" y="0">S</tspan><tspan x="5.34" y="0" style="letter-spacing: -.02em;">P</tspan><tspan x="10.53" y="0" xml:space="preserve"> 800-171</tspan></text>
       </a>
     </g>
     <g id="SP_800-116-3" data-name="SP 800-116">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nist-sp-800-116/" title="SP 800-116" target="_blank" rel="noopener noreferrer">
+      <a href="https://csrc.nist.gov/pubs/sp/800/116/r1/final" title="SP 800-116" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-52" data-name="gbrect" x="936.23" y="555.3" width="85.27" height="17" />
       <text id="SP_800-116-4" data-name="SP 800-116" transform="translate(950.78 567) scale(1.33 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8px; font-weight: 700;"><tspan x="0" y="0">S</tspan><tspan x="5.34" y="0" style="letter-spacing: -.02em;">P</tspan><tspan x="10.53" y="0" xml:space="preserve"> 800-</tspan><tspan x="28.76" y="0" style="letter-spacing: -.06em;">1</tspan><tspan x="32.77" y="0">16</tspan></text>
       </a>
     </g>
     <g id="Cloud_Security_Architecture" data-name="Cloud Security Architecture">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/cloud-security-architecture/" title="Cloud Security Architecture" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.cisa.gov/sites/default/files/2023-05/Cloud%20Security%20Technical%20Reference%20Architecture%20v2.pdf" title="Cloud Security Architecture" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-53" data-name="gbrect" x="1107.23" y="644.3" width="80.27" height="53" />
       <text id="Cloud_Security_Architecture-2" data-name="Cloud Security Architecture" transform="translate(1109.44 669.66) scale(1.33 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8px; font-weight: 700;"><tspan x="0" y="0">Cloud Security </tspan><tspan x="4.66" y="9">Architecture</tspan></text>
       </a>
     </g>
     <!-- ISC Section -->
     <g id="Risk_Management" data-name="Risk Management">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/risk-management-process-for-federal-facilities/" title="Risk Management" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.cisa.gov/resources-tools/resources/isc-standard-risk-management-process" title="Risk Management" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-54" data-name="gbrect" x="1306.5" y="744.3" width="111" height="51" />
       <text id="Risk_Management-2" data-name="Risk Management" transform="translate(1317.24 761.16) scale(1.33 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8px; font-weight: 700;"><tspan x="0" y="0">Risk Management</tspan><tspan x="-3.34" y="12">Process for Federal</tspan><tspan x="16.89" y="24">Facilities</tspan></text>
       </a>
     </g>
     <g id="PACS_Best_Practices_Guide" data-name="PACS Best Practices Guide">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/risk-management-process-for-federal-facilities/" title="PACS Best Practices Guide" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.cisa.gov/sites/default/files/publications/isc-planning-managing-physical-security-resources-dec-2015-508.pdf" title="PACS Best Practices Guide" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-55" data-name="gbrect" x="1306.5" y="804.3" width="111" height="51" />
       <text id="PACS_Best_Practices_Guide-2" data-name="PACS Best Practices Guide" transform="translate(1348.11 821.16) scale(1.33 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8px; font-weight: 700;"><tspan x="0" y="0" style="letter-spacing: -.07em;">P</tspan><tspan x="4.74" y="0">ACS </tspan><tspan x="-16.76" y="12">Best Practices</tspan><tspan x="-.52" y="24">Guide</tspan></text>
       </a>
     </g>
-    <g id="Facility_Acess" data-name="Facility Acess">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/facility-access-control/" title="Facility Acess Control" target="_blank" rel="noopener noreferrer">
+    <g id="Facility_Acess" data-name="Facility Acess"><!-- site down at time of update -->
+      <a href="https://www.cisa.gov/sites/default/files/publications/Facility%20Access%20Control%20-%20An%20Interagency%20Security%20Committee%20Best%20Practice.pdf" title="Facility Acess Control" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-56" data-name="gbrect" x="1306.5" y="864.3" width="111" height="51" />
       <text id="Facility_Acess-2" data-name="Facility Acess" transform="translate(1327.19 887.16) scale(1.33 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8px; font-weight: 700;"><tspan x="0" y="0">Facility</tspan><tspan x="27.57" y="0" style="letter-spacing: -.04em;"> </tspan><tspan x="29.49" y="0">Acess</tspan><tspan x="12.31" y="12">Control</tspan></text>
       </a>
     </g>
     <!-- DOD Guidance Section -->
-    <g id="Selecting_Secure_MFA" data-name="Selecting Secure MFA">
+    <g id="Selecting_Secure_MFA" data-name="Selecting Secure MFA"><!-- Not updated - site down at time of update -->
       <a href="https://www.idmanagement.gov/laws-policies-standards/selecting-secure-mfa/" title="Selecting Secure MFA" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-57" data-name="gbrect" x="56.5" y="924.3" width="95" height="32" />
       <text id="Selecting_Secure_MFA-2" data-name="Selecting Secure MFA" transform="translate(61.6 937.66) scale(1.33 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8px; font-weight: 700;"><tspan x="0" y="0">Selecting Secure</tspan><tspan x="23.79" y="12">M</tspan><tspan x="30.46" y="12" style="letter-spacing: -.06em;">F</tspan><tspan x="34.9" y="12" style="letter-spacing: -.04em;">A</tspan></text>
@@ -935,126 +935,128 @@ sticky_sidenav: true
     </g>
     <!-- NSA Guidance Section -->
     <g id="Transition_to_Multi-Factor_Authentication" data-name="Transition to Multi-Factor Authentication">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/transition-to-multi-factor-authentication/" title="Transition to Multi-Factor Authentication" target="_blank" rel="noopener noreferrer">
+      <a href="https://media.defense.gov/2019/Sep/09/2002180346/-1/-1/0/Transition%20to%20Multi-factor%20Authentication%20-%20Copy.pdf" title="Transition to Multi-Factor Authentication" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-58" data-name="gbrect" x="196.5" y="894.3" width="100.97" height="51" />
       <text id="Transition_to_Multi-Factor_Authentication-2" data-name="Transition to Multi-Factor Authentication" transform="translate(212.57 913.69) scale(1.19 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9.48px; font-weight: 700;"><tspan x="0" y="0" style="letter-spacing: -.06em;">T</tspan><tspan x="5.27" y="0">ransition to</tspan><tspan x="1.32" y="10">Multi-Factor</tspan><tspan x="-4.74" y="20">Authentication</tspan></text>
       </a>
     </g>
     <g id="Mitigating_Cloud2" data-name="Mitigating Cloud2">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/mitigating-cloud-vulnerabilities/" title="Mitigating Cloud" target="_blank" rel="noopener noreferrer">
+      <a href="https://media.defense.gov/2020/Jan/22/2002237484/-1/-1/0/CSI-MITIGATING-CLOUD-VULNERABILITIES_20200121.PDF" title="Mitigating Cloud" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-59" data-name="gbrect" x="306.4" y="914.3" width="100.97" height="32.2" />
       <text id="Mitigating_Cloud" data-name="Transition to Multi-Factor Authentication" transform="translate(315.92 928.84) scale(1.15 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9px; font-weight: 700;"><tspan x="0" y="0">Mitigating Cloud</tspan><tspan x="3.4" y="10.39" style="letter-spacing: -.04em;">V</tspan><tspan x="9.07" y="10.39">ulnerablilities</tspan></text>
       </a>
     </g>
     <!-- FedRAMP Section -->
     <g id="FedRAMP_Digital_Identity_Requirements" data-name="FedRAMP Digital Identity Requirements">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/fedramp-digital-identity-requirements/" title="FedRAMP Digital Identity Requirements" target="_blank" rel="noopener noreferrer">
+      <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/var/www/html/sites/www/app/wordpress/wp-content/blogs.dir/482/files/2016/06/FedRAMP_Digital_Identity_Requirements_v1.0.pdf" title="FedRAMP Digital Identity Requirements" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-60" data-name="gbrect" x="562.41" y="920.3" width="122.09" height="42" />
       <text id="FedRAMP_Digital_Identity_Requirements-2" data-name="FedRAMP Digital Identity Requirements" transform="translate(581.27 939.02) scale(1.17 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9px; font-weight: 700;"><tspan x="0" y="0">FedRAM</tspan><tspan x="36.5" y="0" style="letter-spacing: -.02em;">P</tspan><tspan x="42.34" y="0" xml:space="preserve"> Digital</tspan><tspan x="-11.09" y="11">Identity Requirements</tspan></text>
       </a>
     </g>
     <g id="FIPS_201_Approved_Products_List_APL_" data-name="FIPS 201 Approved Products List (APL)">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/fips201-apl/" title="FIPS 201 Approved Products List (APL)" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.idmanagement.gov/fips201/" title="FIPS 201 Approved Products List (APL)" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-61" data-name="gbrect" x="255.78" y="1084.3" width="107.72" height="41" />
       <text id="FIPS_201_Approved_Products_List_APL_-2" data-name="FIPS 201 Approved Products List (APL)" transform="translate(261.99 1103.02) scale(1.17 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9px; font-weight: 700;"><tspan x="0" y="0">FIPS 201</tspan><tspan x="37.52" y="0" style="letter-spacing: -.04em;"> </tspan><tspan x="39.69" y="0">Approved</tspan><tspan x="-1.16" y="10">Products List (APL)</tspan></text>
       </a>
     </g>
     <g id="Application_Rationalization_Playbook" data-name="Application Rationalization Playbook">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/application-rationalization-playbook/" title="Application Rationalization Playbook" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.cio.gov/assets/files/Application-Rationalization-Playbook.pdf" title="Application Rationalization Playbook" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-62" data-name="gbrect" x="257.78" y="1145.3" width="100.72" height="51" />
       <text id="Application_Rationalization_Playbook-2" data-name="Application Rationalization Playbook" transform="translate(279.58 1164.02) scale(1.17 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9px; font-weight: 700;"><tspan x="0" y="0">Application</tspan><tspan x="-7.5" y="10">Rationalization</tspan><tspan x="4.49" y="20">Playbook</tspan></text>
       </a>
     </g>
     <g id="HTTPS_Compliance_Guide" data-name="HTTPS Compliance Guide">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/https-compliance-guide/" title="HTTPS Compliance Guide" target="_blank" rel="noopener noreferrer">
+      <a href="https://https.cio.gov/guide/#are-federally-operated-certificate-revocation-services-crl-ocsp-also-required-to-move-to-https" title="HTTPS Compliance Guide" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-63" data-name="gbrect" x="706" y="1155.3" width="112.5" height="40" />
       <text id="HTTPS_Compliance_Guide-2" data-name="HTTPS Compliance Guide" transform="translate(714.28 1173.52) scale(1.17 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9px; font-weight: 700;"><tspan x="0" y="0">HTTPS Compliance</tspan><tspan x="28.76" y="11">Guide</tspan></text>
       </a>
     </g>
     <g id="ICAM_Acquisition_Guide" data-name="ICAM Acquisition Guide">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/icam-acquisition-guide/" title="ICAM Acquisition Guide" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.dhs.gov/sites/default/files/publications/icam_acquisition_guidance_final_version_-_092019.pdf" title="ICAM Acquisition Guide" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-64" data-name="gbrect" x="1296" y="1124.3" width="101.5" height="34" />
       <text id="ICAM_Acquisition_Guide-2" data-name="ICAM Acquisition Guide" transform="translate(1303.45 1139.52) scale(1.17 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9px; font-weight: 700;"><tspan x="0" y="0">ICAM</tspan><tspan x="23" y="0" style="letter-spacing: -.04em;"> </tspan><tspan x="25.16" y="0">Acquisition </tspan><tspan x="24.33" y="11">Guide</tspan></text>
       </a>
     </g>
     <g id="Zero_Trust_Maturity_Model" data-name="Zero Trust Maturity Model">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/zero-trust-maturity-model/" title="Zero Trust Maturity Model" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.cisa.gov/sites/default/files/2023-04/CISA_Zero_Trust_Maturity_Model_Version_2_508c.pdf" title="Zero Trust Maturity Model" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-65" data-name="gbrect" x="1306.5" y="1223.3" width="91" height="43" />
       <text id="Zero_Trust_Maturity_Model-2" data-name="Zero Trust Maturity Model" transform="translate(1325.81 1243.02) scale(1.17 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9px; font-weight: 700;"><tspan x="0" y="0">Zero </tspan><tspan x="22" y="0" style="letter-spacing: -.06em;">T</tspan><tspan x="27.01" y="0">rust </tspan><tspan x="-9.75" y="11">Maturity Model</tspan></text>
       </a>
     </g>
     <g id="FICAM_Playbooks" data-name="FICAM Playbooks">
+      <a href="https://www.idmanagement.gov/playbooks/" title="ICAM PM Playbook" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-66" data-name="gbrect" x="247.5" y="1263.3" width="90" height="43" />
       <text id="FICAM_Playbooks-2" data-name="FICAM Playbooks" transform="translate(276.36 1282.02) scale(1.17 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9px; font-weight: 700;"><tspan x="0" y="0">FICAM </tspan><tspan x="-8.26" y="11">Playbooks</tspan></text>
+      </a>
     </g>
     <g id="ICAM_PM_Playbook" data-name="ICAM PM Playbook">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/icam-pm-101/" title="ICAM PM Playbook" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.idmanagement.gov/university/pm/" title="ICAM PM Playbook" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-67" data-name="gbrect" x="347.5" y="1263.3" width="90" height="43" />
       <text id="ICAM_PM_Playbook-2" data-name="ICAM PM Playbook" transform="translate(370.23 1282.02) scale(1.17 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9px; font-weight: 700;"><tspan x="0" y="0">ICAM PM </tspan><tspan x="-.51" y="11">Playbook</tspan></text>
       </a>
     </g>
     <g id="PIV_Guides" data-name="PIV Guides">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/piv-101/" title="PIV Guides" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.idmanagement.gov/university/piv/" title="PIV Guides" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-68" data-name="gbrect" x="347.5" y="1313.3" width="90" height="43" />
       <text id="PIV_Guides-2" data-name="PIV Guides" transform="translate(365.26 1337.52) scale(1.17 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9px; font-weight: 700;"><tspan x="0" y="0">PIV Guides</tspan></text>
       </a>
     </g>
     <g id="PIV_in_E-PACS" data-name="PIV in E-PACS">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/piv-in-e-pacs/" title="PIV in E-PACS" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.idmanagement.gov/docs/pacs-piv-epacs.pdf" title="PIV in E-PACS" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-69" data-name="gbrect" x="247.5" y="1313.3" width="90" height="43" />
       <text id="PIV_in_E-PACS-2" data-name="PIV in E-PACS" transform="translate(257.48 1337.52) scale(1.17 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9px; font-weight: 700;"><tspan x="0" y="0">PIV in E-</tspan><tspan x="36.51" y="0" style="letter-spacing: -.07em;">P</tspan><tspan x="41.84" y="0">ACS</tspan></text>
       </a>
     </g>
     <g id="PACS_Guide" data-name="PACS Guide">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/pacs-101/" title="PACS Guide" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.idmanagement.gov/university/pacs/" title="PACS Guide" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-70" data-name="gbrect" x="247.5" y="1363.3" width="90" height="43" />
       <text id="PACS_Guide-2" data-name="PACS Guide" transform="translate(262.44 1387.52) scale(1.17 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9px; font-weight: 700;"><tspan x="0" y="0" style="letter-spacing: -.07em;">P</tspan><tspan x="5.34" y="0">ACS Guide</tspan></text>
       </a>
     </g>
     <g id="ICAM_Governance_Framework" data-name="ICAM Governance Framework">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/icam-governance-framework/" title="ICAM Governance Framework" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.idmanagement.gov/docs/playbook-identity-governance-framework.pdf" title="ICAM Governance Framework" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-71" data-name="gbrect" x="347.5" y="1363.3" width="90" height="43" />
       <text id="ICAM_Governance_Framework-2" data-name="ICAM Governance Framework" transform="translate(379.57 1376.52) scale(1.17 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9px; font-weight: 700;"><tspan x="0" y="0">ICAM </tspan><tspan x="-14.51" y="11">Governance </tspan><tspan x="-12.51" y="22">Framework</tspan></text>
       </a>
     </g>
     <g id="FPKI_Guide" data-name="FPKI Guide">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/fpki-101/" title="FPKI Guide" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.idmanagement.gov/university/fpki/" title="FPKI Guide" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-72" data-name="gbrect" x="147.5" y="1363.3" width="90" height="43" />
       <text id="FPKI_Guide-2" data-name="FPKI Guide" transform="translate(164.68 1387.52) scale(1.17 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9px; font-weight: 700;"><tspan x="0" y="0">FPKI Guide</tspan></text>
       </a>
     </g>
     <g id="SSO_Playbook" data-name="SSO Playbook">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/sso-playbook/" title="SSO Playbook" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.idmanagement.gov/playbooks/sso/" title="SSO Playbook" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-73" data-name="gbrect" x="147.5" y="1313.3" width="90" height="43" />
       <text id="SSO_Playbook-2" data-name="SSO Playbook" transform="translate(157.08 1337.52) scale(1.17 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9px; font-weight: 700;"><tspan x="0" y="0">SSO Playbook</tspan></text>
       </a>
     </g>
     <g id="FICAM_Architecture" data-name="FICAM Architecture">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/ficam-architecture/" title="FICAM Architecture" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.idmanagement.gov/arch/" title="FICAM Architecture" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-74" data-name="gbrect" x="457.5" y="1263.3" width="90" height="43" />
       <text id="FICAM_Architecture-2" data-name="FICAM Architecture" transform="translate(486.36 1282.02) scale(1.17 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9px; font-weight: 700;"><tspan x="0" y="0">FICAM </tspan><tspan x="-12.26" y="11">Architecture</tspan></text>
       </a>
     </g>
     <g id="ePACS_800-53_Overlay" data-name="ePACS 800-53 Overlay">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/epacs-800-53-overlay/" title="ePACS 800-53 Overlay" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.idmanagement.gov/docs/pacs-800-53-overlay.pdf" title="ePACS 800-53 Overlay" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-75" data-name="gbrect" x="667.5" y="1353.3" width="74" height="40" />
       <text id="ePACS_800-53_Overlay-2" data-name="ePACS 800-53 Overlay" transform="translate(673.93 1371.16) scale(1.17 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8px; font-weight: 700;"><tspan x="0" y="0">e</tspan><tspan x="4.45" y="0" style="letter-spacing: -.07em;">P</tspan><tspan x="9.19" y="0">ACS 800-53</tspan><tspan x="11.93" y="10">Overlay</tspan></text>
       </a>
     </g>
-    <g id="Common_Profiles" data-name="Common Profiles">
+    <g id="Common_Profiles" data-name="Common Profiles"><!-- Not Updated -->
       <a href="https://www.idmanagement.gov/laws-policies-standards/common-profiles/" title="Common Profiles" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-76" data-name="gbrect" x="997.5" y="1304.3" width="101" height="41" />
       <text id="Common_Profiles-2" data-name="Common Profiles" transform="translate(1002.4 1327.64) scale(1.17 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9.33px; font-weight: 700;"><tspan x="0" y="0">Common Profiles</tspan></text>
       </a>
     </g>
-    <g id="FBCA_Profiles" data-name="FBCA Profiles">
+    <g id="FBCA_Profiles" data-name="FBCA Profiles"><!-- Not Updated -->
       <a href="https://www.idmanagement.gov/laws-policies-standards/fbca-profiles/"  title="FBCA Profiles" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-77" data-name="gbrect" x="997.5" y="1353.3" width="101" height="41" />
       <text id="FBCA_Profiles-2" data-name="FBCA Profiles" transform="translate(1011.08 1376.64) scale(1.17 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9.33px; font-weight: 700;"><tspan x="0" y="0">FBC</tspan><tspan x="19.18" y="0" style="letter-spacing: -.04em;">A</tspan><tspan x="25.57" y="0" xml:space="preserve"> Profiles</tspan></text>
       </a>
     </g>
     <g id="FPKI_800-53_Overlay" data-name="FPKI 800-53 Overlay">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/fpki-800-53-overlay/" title="FPKI 800-53 Overlay" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.idmanagement.gov/docs/fpki-overlay-sp-800-53.pdf" title="FPKI 800-53 Overlay" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-78" data-name="gbrect" x="1107.5" y="1353.3" width="101" height="41" style="fill: #d8d8d8; stroke: #000; stroke-miterlimit: 10;"/>
       <text id="FPKI_800-53_Overlay-2" data-name="FPKI 800-53 Overlay" transform="translate(1126.62 1371.55) scale(1.17 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9.33px; font-weight: 700;"><tspan x="0" y="0">FPKI 800-53 </tspan><tspan x="9.33" y="10.18">Overlay</tspan></text>
       </a>
