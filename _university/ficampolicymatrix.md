@@ -129,6 +129,7 @@ Click on the name of a law or directive to see more details about it, and for a 
   }
 
 </style>
+
 <ul class="gsa-expand-collapse-group" title="Expand or Collapse All" aria-label="Expand or Collapse All">
   <li class="gsa-expand-button" onclick="expandToggle()" onkeydown="expandToggle()" title="Expand All" aria-label="Expand All" tabindex="0">   +   </li>
   <li class="gsa-collapse-button" onclick="collapseToggle()" onkeydown="collapseToggle()" title="Collapse All" aria-label="Collapse All" tabindex="0">   -   </li>
@@ -136,16 +137,17 @@ Click on the name of a law or directive to see more details about it, and for a 
 
 {%- for document in sorted_laws | group_by: document.authored-by[0].shortName %}
 
-{% if document.authored-by[0].shortName == "White House" and document.type == "Law" %}
-{% assign lawcolor = "#cdeb8b" %}
+{%- for document in sorted_laws | group_by: document.authored-by[0].shortName %}
+{% if document.authored-by[0].shortName == "U.S. Congress" and document.type == "Law" %}
+{% assign lawcolor = "#ffcc99" %}
 
 <div class="usa-accordion usa-accordion--bordered">
   <h4 class="usa-accordion__heading">
-    <button type="button" class="usa-accordion__button gsa-normal-text gsa-target-accordion-header whitehouse" aria-expanded="false" aria-controls="gsa-a{{forloop.index}}">
+    <button type="button" class="usa-accordion__button gsa-normal-text gsa-target-accordion-header congress" aria-expanded="false" aria-controls="gsa-b{{forloop.index}}">
       <strong>{{document.longName}}</strong> 
     </button>
   </h4>
-  <div id="gsa-a{{forloop.index}}" class="usa-accordion__content usa-prose gsa-target-accordion-content-area gsa-card" onclick="navigateTo('{{document.externalURL}}')" onkeydown="navigateTo('{{document.externalURL}}')" aria-label="{{document.longName}}" tabindex="0" style="border-color: {{lawcolor}};">
+  <div id="gsa-b{{forloop.index}}" class="usa-accordion__content usa-prose gsa-target-accordion-content-area gsa-card" onclick="navigateTo('{{document.externalURL}}')" onkeydown="navigateTo('{{document.externalURL}}')" aria-label="{{document.longName}}" tabindex="0" style="border-color: {{lawcolor}};">
         <p>{% if document.published %} Date: {{document.published | date_to_string }} {% endif %}</p>
         <p>
           {{document.description}}
@@ -159,17 +161,16 @@ Click on the name of a law or directive to see more details about it, and for a 
 {% endif %}
 {% endfor %}
 
-{%- for document in sorted_laws | group_by: document.authored-by[0].shortName %}
-{% if document.authored-by[0].shortName == "U.S. Congress" and document.type == "Law" %}
-{% assign lawcolor = "#ffcc99" %}
+{% if document.authored-by[0].shortName == "White House" and document.type == "Law" %}
+{% assign lawcolor = "#cdeb8b" %}
 
 <div class="usa-accordion usa-accordion--bordered">
   <h4 class="usa-accordion__heading">
-    <button type="button" class="usa-accordion__button gsa-normal-text gsa-target-accordion-header congress" aria-expanded="false" aria-controls="gsa-b{{forloop.index}}">
+    <button type="button" class="usa-accordion__button gsa-normal-text gsa-target-accordion-header whitehouse" aria-expanded="false" aria-controls="gsa-a{{forloop.index}}">
       <strong>{{document.longName}}</strong> 
     </button>
   </h4>
-  <div id="gsa-b{{forloop.index}}" class="usa-accordion__content usa-prose gsa-target-accordion-content-area gsa-card" onclick="navigateTo('{{document.externalURL}}')" onkeydown="navigateTo('{{document.externalURL}}')" aria-label="{{document.longName}}" tabindex="0" style="border-color: {{lawcolor}};">
+  <div id="gsa-a{{forloop.index}}" class="usa-accordion__content usa-prose gsa-target-accordion-content-area gsa-card" onclick="navigateTo('{{document.externalURL}}')" onkeydown="navigateTo('{{document.externalURL}}')" aria-label="{{document.longName}}" tabindex="0" style="border-color: {{lawcolor}};">
         <p>{% if document.published %} Date: {{document.published | date_to_string }} {% endif %}</p>
         <p>
           {{document.description}}
