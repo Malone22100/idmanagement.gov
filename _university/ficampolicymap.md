@@ -529,7 +529,7 @@ sticky_sidenav: true
     </g>
     <g id="M-19-03">
       <g id="eorect-8" data-name="eorect">
-        <a href="https://www.idmanagement.gov/laws-policies-standards/m-19-03/" title="M-19-03" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.whitehouse.gov/wp-content/uploads/2018/12/M-19-03.pdf" title="M-19-03" target="_blank" rel="noopener noreferrer">
         <rect class="fpbutton" x="197" y="374.8" width="63.5" height="24.5"/>
         <text id="M-19-03-2" data-name="M-19-03" transform="translate(208 392.35) scale(.93 1)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">M-19-03 </tspan></text>
         </a>
@@ -538,7 +538,7 @@ sticky_sidenav: true
     </g>
     <g id="M-19-16">
       <g id="eorect-9" data-name="eorect">
-        <a href="https://www.idmanagement.gov/laws-policies-standards/m-19-16/" title="m-19-16" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.whitehouse.gov/wp-content/uploads/2019/04/M-19-16.pdf" title="m-19-16" target="_blank" rel="noopener noreferrer">
         <rect class="fpbutton" x="195" y="435.8" width="63.5" height="24.5" />
         <text id="M-19-16-2" data-name="M-19-16" transform="translate(206 453.35) scale(.93 1)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">M-19-16 </tspan></text>
         </a>
@@ -547,7 +547,7 @@ sticky_sidenav: true
     </g>
     <g id="M-19-17">
       <g id="eorect-10" data-name="eorect">
-        <a href="https://www.idmanagement.gov/laws-policies-standards/m-19-17/" title="m-19-17" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf" title="m-19-17" target="_blank" rel="noopener noreferrer">
         <rect class="fpbutton" x="475" y="422.8" width="72.5" height="24.5" />
         <text id="M-19-17-2" data-name="M-19-17" transform="translate(490.26 439.85) scale(.93 1)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">M-19-17 </tspan></text>
         </a>
@@ -556,7 +556,7 @@ sticky_sidenav: true
     </g>
     <g id="M-19-19">
       <g id="eorect-11" data-name="eorect">
-        <a href="https://www.idmanagement.gov/laws-policies-standards/m-19-19/" title="m-19-19" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.whitehouse.gov/wp-content/uploads/2019/06/M-19-19-Data-Centers.pdf" title="m-19-19" target="_blank" rel="noopener noreferrer">
         <rect class="fpbutton" x="566" y="374.8" width="72.5" height="24.5" />
         <text id="M-19-19-2" data-name="M-19-19" transform="translate(581.26 391.85) scale(.93 1)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">M-19-19 </tspan></text>
         </a>
@@ -565,7 +565,7 @@ sticky_sidenav: true
     </g>
     <g id="M-22-09">
       <g id="eorect-12" data-name="eorect">
-        <a href="https://www.idmanagement.gov/laws-policies-standards/m-22-09/" title="m-22-09" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.whitehouse.gov/wp-content/uploads/2022/01/M-22-09.pdf" title="m-22-09" target="_blank" rel="noopener noreferrer">
         <rect class="fpbutton" x="657.5" y="374.8" width="73" height="24.5" />
         <text id="M-22-09-2" data-name="M-22-09" transform="translate(673.26 391.85) scale(.93 1)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">M-22-09 </tspan></text>
         </a>
@@ -574,7 +574,7 @@ sticky_sidenav: true
     </g>
     <g id="M-15-13">
       <g id="eorect-13" data-name="eorect">
-        <a href="https://www.idmanagement.gov/laws-policies-standards/m-15-13/" title="m-15-13" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2015/m-15-13.pdf" title="m-15-13" target="_blank" rel="noopener noreferrer">
         <rect class="fpbutton" x="676.5" y="454.8" width="81" height="24.5" />
         <text id="M-15-13-2" data-name="M-15-13" transform="translate(694.01 471.85) scale(1.03 1)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">M-15-13 </tspan></text>
         </a>
@@ -583,7 +583,7 @@ sticky_sidenav: true
     </g>
     <g id="M-05-24">
       <g id="eorect-14" data-name="eorect">
-        <a href="https://www.idmanagement.gov/laws-policies-standards/m-05-24/" title="m-05-24" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2005/m05-24.pdf" title="m-05-24" target="_blank" rel="noopener noreferrer">
         <rect class="fpbutton" x="975.5" y="363.8" width="71" height="23.5" />
         <text id="M-05-24-2" data-name="M-05-24" transform="translate(989.49 380.33) scale(.94 1)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">M-05-24 </tspan></text>
         </a>
@@ -592,7 +592,7 @@ sticky_sidenav: true
     </g>
     <g id="_5_CFR_731" data-name="5 CFR 731">
       <g id="eorect-15" data-name="eorect">
-        <a href="https://www.idmanagement.gov/laws-policies-standards/5-cfr-731/" title="5-cfr-731" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.ecfr.gov/current/title-5/chapter-I/subchapter-B/part-731" title="5-cfr-731" target="_blank" rel="noopener noreferrer">
         <rect class="fpbutton" x="1206.5" y="364.8" width="62" height="30.5" />
         <text id="_5_CFR_731-2" data-name="5 CFR 731" transform="translate(1210.22 384.6) scale(.94 1)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">5 CFR 731 </tspan></text>
         </a>
@@ -601,7 +601,7 @@ sticky_sidenav: true
     </g>
     <g id="Springer_Memo" data-name="Springer Memo">
       <g id="eorect-16" data-name="eorect">
-        <a href="https://www.idmanagement.gov/laws-policies-standards/springer-memo/" title="Springer Memo" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.opm.gov/suitability/suitability-executive-agent/policy/final-credentialing-standards.pdf" title="Springer Memo" target="_blank" rel="noopener noreferrer">
         <rect class="fpbutton" x="1277.5" y="356.8" width="72" height="38.5"/>
         <text id="Springer_Memo-2" data-name="Springer Memo" transform="translate(1290.3 374.6) scale(.94 1)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">Springer</tspan><tspan x="7.34" y="12">Memo </tspan></text>
         </a>
@@ -610,7 +610,7 @@ sticky_sidenav: true
     </g>
     <g id="Credentialing_Box" data-name="Credentialing Box">
       <g id="eorect-17" data-name="eorect">
-        <a href="https://www.idmanagement.gov/laws-policies-standards/credentialing-standards-memo-2020/" title="Credentialing Standards Memo 2020" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.opm.gov/suitability/suitability-executive-agent/policy/cred-standards.pdf" title="Credentialing Standards Memo 2020" target="_blank" rel="noopener noreferrer">
         <rect class="fpbutton" x="1327.5" y="435.8" width="81" height="59.5" />
         <text id="Credentialing_Box-2" data-name="Credentialing Box" transform="translate(1334.96 457.74) scale(.94 1)" style="font-family: Arial-BoldMT, Arial; font-size: 11px; font-weight: 700;"><tspan x="0" y="0">Credentialing</tspan><tspan x="8.25" y="12">Standards</tspan><tspan x="5.49" y="24">Memo 2020</tspan></text>
         </a>
@@ -619,7 +619,7 @@ sticky_sidenav: true
     </g>
     <g id="OMB_Circular_A-130" data-name="OMB Circular A-130">
       <g id="eorect-18" data-name="eorect">
-        <a href="https://www.idmanagement.gov/laws-policies-standards/omb-circular-a-130/" title="OMB Circular A-130" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/circulars/A130/a130revised.pdf" title="OMB Circular A-130" target="_blank" rel="noopener noreferrer">
         <rect class="fpbutton" x="387" y="364.8" width="91.5" height="46" />
         <text id="OMB_Circular_A-130-2" data-name="OMB Circular A-130" transform="translate(405.05 383.75) scale(.72 1)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">OMB Circular </tspan><tspan x="22" y="14">A-130</tspan></text>
         </a>
@@ -628,7 +628,7 @@ sticky_sidenav: true
     </g>
     <g id="OMB_Circular_A-108" data-name="OMB Circular A-108">
       <g id="eorect-19" data-name="eorect">
-        <a href="https://www.idmanagement.gov/laws-policies-standards/omb-circular-a-108/" title="OMB Circular A-108" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/circulars/A108/omb_circular_a-108.pdf" title="OMB Circular A-108" target="_blank" rel="noopener noreferrer">
         <rect class="fpbutton" x="325" y="424.8" width="93.5" height="32.14"/>
         <text id="OMB_Circular_A-108-2" data-name="OMB Circular A-108" transform="translate(343.45 438) scale(1.05 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8.46px; font-weight: 700;"><tspan x="0" y="0">OMB Circular </tspan><tspan x="15.51" y="9.87">A-108</tspan></text>
         </a>
@@ -637,7 +637,7 @@ sticky_sidenav: true
     </g>
     <g id="PIV_Guidance_Box" data-name="PIV Guidance Box">
       <g id="eorect-20" data-name="eorect">
-        <a href="https://www.idmanagement.gov/laws-policies-standards/guidance-on-executive-branch-wide-requirements-for-issuing-personal-identity-verification-piv-credentials-and-suspension-mechanism/" title="Guidance on Executive Branch-Wide Requirements for Issuing Personal Identity Verification (PIV) Credentials and Suspension Mechanism" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.opm.gov/suitability/suitability-executive-agent/policy/memo-issuing-piv-credentials-and-suspension-criteria.pdf" title="Guidance on Executive Branch-Wide Requirements for Issuing Personal Identity Verification (PIV) Credentials and Suspension Mechanism" target="_blank" rel="noopener noreferrer">
         <rect class="fpbutton" x="997.5" y="435.8" width="311" height="60.5" />
         <text id="PIV_Guidance_Box-2" data-name="PIV Guidance Box" transform="translate(1005.03 456.8) scale(1.13 1)" style="font-family: Arial-BoldMT, Arial; font-weight: 700;"><tspan style="font-size: 10px;"><tspan x="0" y="0">Guidance on Executive Branch-</tspan><tspan x="150.6" y="0" style="letter-spacing: 0em;">W</tspan><tspan x="159.95" y="0">ide Requirements for </tspan></tspan><tspan style="font-size: 10px;"><tspan x="9.95" y="11">Issuing Personal </tspan><tspan x="92.76" y="11" style="letter-spacing: -.06em;">V</tspan><tspan x="98.87" y="11">erification (PIV) Credentials and </tspan></tspan><tspan x="73.02" y="24.22" style="font-size: 10px;">Suspension Mechanism</tspan><tspan x="186.94" y="24.22" style="font-size: 13.22px;"> </tspan></text>
         </a>
@@ -646,7 +646,7 @@ sticky_sidenav: true
     </g>
     <g id="HSPD-12_PIV_Box" data-name="HSPD-12/PIV Box">
       <g id="eorect-21" data-name="eorect">
-        <a href="https://www.idmanagement.gov/laws-policies-standards/m-05-24/" title="M-05-24" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2005/m05-24.pdf" title="M-05-24" target="_blank" rel="noopener noreferrer">
         <rect class="fpbutton" x="1317.5" y="524.8" width="102" height="59.5"/>
         <text id="HSPD-12_PIV" data-name="HSPD-12/PIV" transform="translate(1336.88 546.74) scale(.94 1)" style="font-family: Arial-BoldMT, Arial; font-size: 11px; font-weight: 700;"><tspan x="0" y="0">HSPD-12/PIV</tspan><tspan x="-8.85" y="12">Suspension and</tspan><tspan x="-8.86" y="24">Revocation </tspan><tspan x="53.49" y="24" style="letter-spacing: -.06em;">F</tspan><tspan x="59.6" y="24">AQ</tspan></text>
         </a>
@@ -655,7 +655,7 @@ sticky_sidenav: true
     </g>
     <g id="Clearance_Decision" data-name="Clearance Decision Making Guide">
       <g id="eorect-22" data-name="eorect">
-        <a href="https://www.idmanagement.gov/laws-policies-standards/clearance-decision-making-guide/" title="Clearance Decision Making Guide" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.opm.gov/suitability/suitability-executive-agent/policy/decision-making-guide.pdf" title="Clearance Decision Making Guide" target="_blank" rel="noopener noreferrer">
         <rect class="fpbutton" x="1227.5" y="524.8" width="75" height="48.5" />
         <text id="Clearance_Decision-2" data-name="Clearance Decision" transform="translate(1240.78 541.24) scale(.94 1)" style="font-family: Arial-BoldMT, Arial; font-size: 11px; font-weight: 700;"><tspan x="0" y="0">Clearance</tspan><tspan x="1.54" y="12">Decision-</tspan><tspan x="-9.76" y="24">Making Guide</tspan></text>
         </a>
