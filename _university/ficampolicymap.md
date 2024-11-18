@@ -347,31 +347,31 @@ sticky_sidenav: true
     </g>
     <!-- Act of Congress Section -->
     <g id="Privacy_Act_of_1974" data-name="Privacy Act of 1974">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/privacy-act-of-1974/" title="Privacy Act of 1974" target="_blank" rel="noopener noreferrer">
+      <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim" title="Privacy Act of 1974" target="_blank" rel="noopener noreferrer">
       <rect id="aocrect" class="aocbutton" x="304.5" y="275.3" width="97" height="40" />
       <text transform="translate(313.21 294.1)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">Privacy</tspan><tspan x="42.7" y="0" style="letter-spacing: -.04em;"> </tspan><tspan x="45.59" y="0" xml:space="preserve">Act of  </tspan><tspan x="26.45" y="11">1974 </tspan></text>
       </a>
   </g>
     <g id="Government_Paperwork_Elimination_Act" data-name="Government Paperwork Elimination Act">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/government-paperwork-elimination-act/" title="Government Paperwork Elimination Act" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.govinfo.gov/content/pkg/PLAW-105publ277/html/PLAW-105publ277.htm" title="Government Paperwork Elimination Act" target="_blank" rel="noopener noreferrer">
       <rect id="aocrect-2" class="aocbutton" data-name="aocrect" x="373.76" y="213.64" width="116.16" height="42.16"/>
       <text transform="translate(396.5 227.77)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">Government </tspan><tspan x="4.66" y="11">Paperwork </tspan><tspan x="-8.11" y="22">Elimination</tspan><tspan x="56.56" y="22" style="letter-spacing: -.04em;"> </tspan><tspan x="59.45" y="22">Act</tspan></text>
       </a>
     </g>
     <g id="E-SSIGN_Act_of_2000" data-name="E-SSIGN Act of 2000">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/e-sign-act-of-2000/" target="_blank" title="E-SSIGN Act of 2000" rel="noopener noreferrer">
+      <a href="https://www.govinfo.gov/content/pkg/USCODE-2021-title15/html/USCODE-2021-title15-chap96.htm" target="_blank" title="E-SSIGN Act of 2000" rel="noopener noreferrer">
       <rect id="aocrect-3" class="aocbutton" data-name="aocrect" x="467.5" y="275.3" width="89" height="40"/>
       <text transform="translate(480.45 294.1)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">E-SIGN</tspan><tspan x="41.34" y="0" style="letter-spacing: -.04em;"> </tspan><tspan x="44.23" y="0">Act </tspan><tspan x="11.1" y="11">of 2000</tspan></text>
       </a>
     </g>
     <g id="FITARA_2017" data-name="FITARA 2017">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/fitara-enhancement-act-of-2017/" title="FITARA 2017" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.congress.gov/bill/115th-congress/house-bill/3243/text" title="FITARA 2017" target="_blank" rel="noopener noreferrer">
       <rect id="aocrect-4" class="aocbutton" data-name="aocrect" x="557.5" y="205.3" width="89" height="40"/>
       <text transform="translate(565.66 229.98)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">FI</tspan><tspan x="10.66" y="0" style="letter-spacing: -.07em;">T</tspan><tspan x="17.1" y="0">AR</tspan><tspan x="34.44" y="0" style="letter-spacing: -.04em;">A</tspan><tspan x="42.66" y="0" xml:space="preserve"> 2017</tspan></text>
       </a>
     </g>
     <g id="FISMA2014">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/fisma-2014/" title="FISMA 2014" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.congress.gov/113/plaws/publ283/PLAW-113publ283.pdf" title="FISMA 2014" target="_blank" rel="noopener noreferrer">
       <rect id="fismarect" class="aocbutton" x="235" y="215.3" width="86" height="40" />
       <text transform="translate(244.54 239.85)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">FISM</tspan><tspan x="28.66" y="0" style="letter-spacing: -.04em;">A</tspan><tspan x="36.88" y="0" xml:space="preserve"> 2014 </tspan></text>
       </a>
@@ -492,37 +492,37 @@ sticky_sidenav: true
       <text id="ICAMSC-2" data-name="ICAMSC" transform="translate(162.48 1276.16)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">ICAMSC</tspan></text>
     </g>
     <g id="E.O._13681" data-name="E.O. 13681">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/e.o.-13681/" title="E.O. 13681" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.govinfo.gov/content/pkg/FR-2014-10-23/pdf/2014-25439.pdf" title="E.O. 13681" target="_blank" rel="noopener noreferrer">
         <rect id="eorect-2" class="eobutton" data-name="eorect" x="698" y="195.8" width="79" height="29" />
         <text transform="translate(707.15 214.6)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">E.O. 13681 </tspan></text>
       </a>
     </g>
     <g id="E.O._14028" data-name="E.O. 14028">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/e.o.-14028/" title="E.O. 14028" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.federalregister.gov/documents/2021/05/17/2021-10460/improving-the-nations-cybersecurity" title="E.O. 14028" target="_blank" rel="noopener noreferrer">
         <rect id="eorect-3" class="eobutton" data-name="eorect" x="697.5" y="245.3" width="80" height="30" />
         <text transform="translate(706.84 264.41)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">E.O. 14028 </tspan></text>
       </a>
     </g>
     <g id="E.O._13556" data-name="E.O. 13556">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/e.o.-13556/" title="E.O. 13556" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.federalregister.gov/documents/2010/11/09/2010-28360/controlled-unclassified-information" title="E.O. 13556" target="_blank" rel="noopener noreferrer">
       <rect id="eorect-4" class="eobutton" data-name="eorect" x="787.5" y="285.3" width="80" height="30" />
       <text transform="translate(796.84 304.41)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">E.O. 13556 </tspan></text>
       </a>
     </g>
     <g id="E.O._13286" data-name="E.O. 13286">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/e.o.-13286/" title="E.O. 13286" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.federalregister.gov/documents/2003/03/05/03-5343/amendment-of-executive-orders-and-other-actions-in-connection-with-the-transfer-of-certain-functions" title="E.O. 13286" target="_blank" rel="noopener noreferrer">
       <rect id="eorect-5" class="eobutton" data-name="eorect" x="1187.5" y="215.3" width="80" height="30" />
       <text transform="translate(1196.84 234.41)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">E.O. 13286 </tspan></text>
       </a>
     </g>
     <g id="E.O._13467" data-name="E.O. 13467">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/e.o.-13467/" title="E.O. 13467" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.federalregister.gov/documents/2008/07/02/08-1409/reforming-processes-related-to-suitability-for-government-employment-fitness-for-contractor" title="E.O. 13467" target="_blank" rel="noopener noreferrer">
       <rect id="eorect-6" class="eobutton" data-name="eorect" x="1147.5" y="275.3" width="80" height="30" />
       <text transform="translate(1156.84 294.41)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">E.O. 13467 </tspan></text>
       </a>
     </g>
     <g id="HSPD-12">
-      <a href="https://www.idmanagement.gov/laws-policies-standards/hspd-12/" title="HSPD-12" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.opm.gov/suitability/suitability-executive-agent/policy/final-credentialing-standards.pdf" title="HSPD-12" target="_blank" rel="noopener noreferrer">
       <rect id="eorect-7" class="eobutton" data-name="eorect" x="837.01" y="204.8" width="160.99" height="59.74"/>
       <text id="HSPD-12-2" data-name="HSPD-12" transform="translate(865.88 242.85) scale(1.01 1)" style="font-family: Arial-BoldMT, Arial; font-size: 23.89px; font-weight: 700;"><tspan x="0" y="0">HSPD-12 </tspan></text>
       </a>
