@@ -136,8 +136,6 @@ Click on the name of a law or directive to see more details about it, and for a 
 </ul>
 
 {%- for document in sorted_laws | group_by: document.authored-by[0].shortName %}
-
-{%- for document in sorted_laws | group_by: document.authored-by[0].shortName %}
 {% if document.authored-by[0].shortName == "U.S. Congress" and document.type == "Law" %}
 {% assign lawcolor = "#ffcc99" %}
 
@@ -160,6 +158,8 @@ Click on the name of a law or directive to see more details about it, and for a 
 </div>
 {% endif %}
 {% endfor %}
+
+{%- for document in sorted_laws | group_by: document.authored-by[0].shortName %}
 
 {% if document.authored-by[0].shortName == "White House" and document.type == "Law" %}
 {% assign lawcolor = "#cdeb8b" %}
