@@ -960,6 +960,7 @@
   description: >-
     This document specifies the profiles for X.509 certificates and certificate revocation lists (CRLs) 
     associated with CAs cross-certified with the Federal Bridge Certification Authority (FBCA).
+  externalURL: "https://www.idmanagement.gov/docs/fpki-x509-cert-profiles-fbca.pdf"
   published: 2022-10-18
   authored-by:
     - *FPKIPA
@@ -975,6 +976,7 @@
     Certificate Policy for the U.S. Federal PKI Common Policy Framework [COMMON] 
     and that have a trust path to the Federal Common Policy CA operated by the Federal PKI 
     Management Authority.
+  externalURL: "https://www.idmanagement.gov/docs/fpki-x509-cert-profile-common.pdf"
   published: 2022-09-30
   authored-by:
     - *FPKIPA
@@ -1636,7 +1638,7 @@
     the practical guidelines, users can reduce their risk exposure and become harder targets for 
     malicious threat actors.
   published: 2020-10-01
-  externalURL: "https://media.defense.gov/2020/Sep/22/2002502665/-1/-1/0/CSI_MULTIFACTOR_AUTHENTICATION_SOLUTIONS_UOO17091520.PDF"
+  externalURL: "https://media.defense.gov/2024/Jul/31/2003515137/-1/-1/0/MULTIFACTOR_AUTHENTICATION_SOLUTIONS_UOO17091520.PDF"
   authored-by:
     - *DOD
   authorized-by:

@@ -663,8 +663,8 @@ sticky_sidenav: true
       </g>
     </g>
     <g id="Federal_Common_Policy" data-name="Federal Common Policy">
-      <g id="eorect-23" data-name="eorect"><!-- Not updated -->
-        <a href="https://www.idmanagement.gov/laws-policies-standards/common-profiles/" title="Federal Common Policy" target="_blank" rel="noopener noreferrer">
+      <g id="eorect-23" data-name="eorect">
+        <a href="https://www.idmanagement.gov/docs/fpki-x509-cert-policy-common.pdf" title="Federal Common Policy" target="_blank" rel="noopener noreferrer">
         <rect class="fpbutton" x="886.5" y="1304.3" width="101" height="41" style="fill: #cce5ff;"/>
         <text id="Federal_Common_Policy-2" data-name="Federal Common Policy" transform="translate(895.26 1323.26) scale(1.11 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9.33px; font-weight: 700;"><tspan x="0" y="0">Federal Common </tspan><tspan x="24.37" y="10.18">Policy</tspan></text>
         </a>
@@ -673,7 +673,7 @@ sticky_sidenav: true
     </g>
     <g id="Federal_Bridge_Certificate_Policy" data-name="Federal Bridge Certificate Policy">
       <g id="eorect-24" data-name="eorect"><!-- Not updated -->
-        <a href="https://www.idmanagement.gov/laws-policies-standards/fbca-profiles/" title="Federal Bridge Certificate Policy" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.idmanagement.gov/docs/fpki-x509-cert-policy-fbca.pdf" title="Federal Bridge Certificate Policy" target="_blank" rel="noopener noreferrer">
         <rect class="fpbutton" x="886.5" y="1353.3" width="101" height="41" style="fill: #cce5ff;"/>
         <text id="Federal_Bridge_Certificate_Policy-2" data-name="Federal Bridge Certificate Policy" transform="translate(901.29 1372.26) scale(1.11 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9.33px; font-weight: 700;"><tspan x="0" y="0">Federal Bridge</tspan><tspan x="-5.19" y="10.18">Certificate Policy</tspan></text>
         </a>
@@ -928,7 +928,7 @@ sticky_sidenav: true
     </g>
     <!-- DOD Guidance Section -->
     <g id="Selecting_Secure_MFA" data-name="Selecting Secure MFA"><!-- Not updated - site down at time of update -->
-      <a href="https://www.idmanagement.gov/laws-policies-standards/selecting-secure-mfa/" title="Selecting Secure MFA" target="_blank" rel="noopener noreferrer">
+      <a href="https://media.defense.gov/2024/Jul/31/2003515137/-1/-1/0/MULTIFACTOR_AUTHENTICATION_SOLUTIONS_UOO17091520.PDF" title="Selecting Secure MFA" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-57" data-name="gbrect" x="56.5" y="924.3" width="95" height="32" />
       <text id="Selecting_Secure_MFA-2" data-name="Selecting Secure MFA" transform="translate(61.6 937.66) scale(1.33 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8px; font-weight: 700;"><tspan x="0" y="0">Selecting Secure</tspan><tspan x="23.79" y="12">M</tspan><tspan x="30.46" y="12" style="letter-spacing: -.06em;">F</tspan><tspan x="34.9" y="12" style="letter-spacing: -.04em;">A</tspan></text>
       </a>
@@ -1043,14 +1043,14 @@ sticky_sidenav: true
       <text id="ePACS_800-53_Overlay-2" data-name="ePACS 800-53 Overlay" transform="translate(673.93 1371.16) scale(1.17 1)" style="font-family: Arial-BoldMT, Arial; font-size: 8px; font-weight: 700;"><tspan x="0" y="0">e</tspan><tspan x="4.45" y="0" style="letter-spacing: -.07em;">P</tspan><tspan x="9.19" y="0">ACS 800-53</tspan><tspan x="11.93" y="10">Overlay</tspan></text>
       </a>
     </g>
-    <g id="Common_Profiles" data-name="Common Profiles"><!-- Not Updated -->
-      <a href="https://www.idmanagement.gov/laws-policies-standards/common-profiles/" title="Common Profiles" target="_blank" rel="noopener noreferrer">
+    <g id="Common_Profiles" data-name="Common Profiles">
+      <a href="https://www.idmanagement.gov/docs/fpki-x509-cert-profile-common.pdf" title="Common Profiles" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-76" data-name="gbrect" x="997.5" y="1304.3" width="101" height="41" />
       <text id="Common_Profiles-2" data-name="Common Profiles" transform="translate(1002.4 1327.64) scale(1.17 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9.33px; font-weight: 700;"><tspan x="0" y="0">Common Profiles</tspan></text>
       </a>
     </g>
-    <g id="FBCA_Profiles" data-name="FBCA Profiles"><!-- Not Updated -->
-      <a href="https://www.idmanagement.gov/laws-policies-standards/fbca-profiles/"  title="FBCA Profiles" target="_blank" rel="noopener noreferrer">
+    <g id="FBCA_Profiles" data-name="FBCA Profiles">
+      <a href="https://www.idmanagement.gov/docs/fpki-x509-cert-profiles-fbca.pdf"  title="FBCA Profiles" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-77" data-name="gbrect" x="997.5" y="1353.3" width="101" height="41" />
       <text id="FBCA_Profiles-2" data-name="FBCA Profiles" transform="translate(1011.08 1376.64) scale(1.17 1)" style="font-family: Arial-BoldMT, Arial; font-size: 9.33px; font-weight: 700;"><tspan x="0" y="0">FBC</tspan><tspan x="19.18" y="0" style="letter-spacing: -.04em;">A</tspan><tspan x="25.57" y="0" xml:space="preserve"> Profiles</tspan></text>
       </a>
