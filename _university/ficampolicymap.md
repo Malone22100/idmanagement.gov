@@ -354,7 +354,7 @@ sticky_sidenav: true
   </g>
   <g id="_6_USC_1523_Federal_Cybersecurity_Requirements" data-name="6 USC 1523 Federal Cybersecurity Requirements">
     <a href="https://uscode.house.gov/view.xhtml?req=6+USC+1523:+Federal+cybersecurity+requirements" title="6 USC 1523 Federal Cybersecurity Requirements" target="_blank" rel="noopener noreferrer">
-    <rect id="aocrect-4" class="aocbutton" data-name="aocrect" x="167" y="267.88" width="101.16" height="44.64" stroke: #000; stroke-miterlimit: 10;"/>
+    <rect id="aocrect-4" class="aocbutton" data-name="aocrect" x="167" y="267.88" width="101.16" height="44.64"/>
     <text id="_6_USC_1523_Federal_Cybersecurity_Requirements-2" data-name="6 USC 1523 Federal Cybersecurity Requirements" transform="translate(195.84 283.35)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">Federal </tspan><tspan x="-18.68" y="11">Cybersecurity </tspan><tspan x="-18.67" y="22">Requirements</tspan></text>
     </a>
   </g> 
