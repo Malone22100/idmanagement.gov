@@ -345,13 +345,19 @@ sticky_sidenav: true
         <path d="M227.52,545.56c-1.05-2.84-2.85-6.36-4.76-8.55l4.76,1.72,4.75-1.72c-1.9,2.18-3.7,5.71-4.75,8.55Z"/>
       </g>
     </g>
-    <!-- Act of Congress Section -->
-    <g id="Privacy_Act_of_1974" data-name="Privacy Act of 1974">
+  <!-- Act of Congress Section -->
+  <g id="Privacy_Act_of_1974" data-name="Privacy Act of 1974">
       <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim" title="Privacy Act of 1974" target="_blank" rel="noopener noreferrer">
       <rect id="aocrect" class="aocbutton" x="304.5" y="275.3" width="97" height="40" />
       <text transform="translate(313.21 294.1)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">Privacy</tspan><tspan x="42.7" y="0" style="letter-spacing: -.04em;"> </tspan><tspan x="45.59" y="0" xml:space="preserve">Act of  </tspan><tspan x="26.45" y="11">1974 </tspan></text>
       </a>
   </g>
+  <g id="_6_USC_1523_Federal_Cybersecurity_Requirements" data-name="6 USC 1523 Federal Cybersecurity Requirements">
+    <a href="https://uscode.house.gov/view.xhtml?req=6+USC+1523:+Federal+cybersecurity+requirements" title="6 USC 1523 Federal Cybersecurity Requirements" target="_blank" rel="noopener noreferrer">
+    <rect id="aocrect-4" data-name="aocrect" x="167" y="267.88" width="101.16" height="44.64" style="fill: #fc9; stroke: #000; stroke-miterlimit: 10;"/>
+    <text id="_6_USC_1523_Federal_Cybersecurity_Requirements-2" data-name="6 USC 1523 Federal Cybersecurity Requirements" transform="translate(195.84 283.35)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">Federal </tspan><tspan x="-18.68" y="11">Cybersecurity </tspan><tspan x="-18.67" y="22">Requirements</tspan></text>
+    </a>
+  </g> 
     <g id="Government_Paperwork_Elimination_Act" data-name="Government Paperwork Elimination Act">
       <a href="https://www.govinfo.gov/content/pkg/PLAW-105publ277/html/PLAW-105publ277.htm" title="Government Paperwork Elimination Act" target="_blank" rel="noopener noreferrer">
       <rect id="aocrect-2" class="aocbutton" data-name="aocrect" x="373.76" y="213.64" width="116.16" height="42.16"/>
