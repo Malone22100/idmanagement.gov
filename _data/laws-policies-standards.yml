@@ -789,6 +789,7 @@
     technologies to enhance public safety mission capabilities by using standards-based
     commercially available or open-source products.
   published: 2021-08-25
+  externalURL: "https://csrc.nist.gov/pubs/sp/1800/13/final"
   authored-by:
     - *NIST
   ficam-services:
@@ -1193,6 +1194,7 @@
     executed at various phases of the system development life cycle, are consistent with the security and 
     privacy controls in NIST Special Publication 800-53, Revision 5.
   published: 2022-01-25
+  externalURL: "https://csrc.nist.gov/pubs/sp/800/53/a/r5/final"
   authored-by:
     - *NIST
   authorized-by:

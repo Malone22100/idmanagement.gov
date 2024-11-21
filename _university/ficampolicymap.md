@@ -699,8 +699,8 @@ sticky_sidenav: true
       <text id="SOFA-B-2" data-name="SOFA-B" transform="translate(73.9 648.56)" style="font-family: Arial-BoldMT, Arial; font-size: 9.8px; font-weight: 700;"><tspan x="0" y="0">SO</tspan><tspan x="14.16" y="0" style="letter-spacing: -.06em;">F</tspan><tspan x="19.6" y="0">A-B</tspan></text>
       </a>
     </g>
-    <g id="SP_1800-13" data-name="SP 1800-13"><!-- Not updated -->
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nist-sp-1800-13/" title="SP 1800-13" target="_blank" rel="noopener noreferrer">
+    <g id="SP_1800-13" data-name="SP 1800-13">
+      <a href="https://csrc.nist.gov/pubs/sp/1800/13/final" title="SP 1800-13" target="_blank" rel="noopener noreferrer">
       <rect id="gbrect-22" class="tsbutton" data-name="gbrect" x="47.41" y="674.3" width="90.19" height="41.5"/>
       <text id="SP_1800-13-2" data-name="SP 1800-13" transform="translate(66.58 698.56)" style="font-family: Arial-BoldMT, Arial; font-size: 9.8px; font-weight: 700;"><tspan x="0" y="0">S</tspan><tspan x="6.53" y="0" style="letter-spacing: -.02em;">P</tspan><tspan x="12.89" y="0" xml:space="preserve"> 1800-13</tspan></text>
       </a>
@@ -720,8 +720,8 @@ sticky_sidenav: true
     <g id="SP_White_Box" data-name="SP White Box">
       <rect id="whitepanel" x="167.41" y="604.3" width="100.09" height="91" style="fill: #fff; stroke: #000; stroke-miterlimit: 10;"/>
     </g>
-    <g id="SP_800-53A" data-name="SP 800-53A"><!-- Not updated -->
-      <a href="https://www.idmanagement.gov/laws-policies-standards/nist-sp-800-53a/" title="SP 800-53A" target="_blank" rel="noopener noreferrer">
+    <g id="SP_800-53A" data-name="SP 800-53A">
+      <a href="https://csrc.nist.gov/pubs/sp/800/53/a/r5/final" title="SP 800-53A" target="_blank" rel="noopener noreferrer">
       <rect class="tsbutton" id="gbrect-25" data-name="gbrect" x="176.41" y="653.3" width="81.09" height="32" />
       <text id="SP_800-53A-2" data-name="SP 800-53A" transform="translate(190.26 673.26)" style="font-family: Arial-BoldMT, Arial; font-size: 9.8px; font-weight: 700;"><tspan x="0" y="0">S</tspan><tspan x="6.53" y="0" style="letter-spacing: -.02em;">P</tspan><tspan x="12.89" y="0" xml:space="preserve"> 800-53</tspan><tspan x="46.12" y="0" style="letter-spacing: -.04em;">A</tspan></text>
       </a>
