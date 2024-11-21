@@ -7,6 +7,75 @@
 # 
 # Used on: https://www.idmanagement.gov/fpki/
 
+- category: Common Profile
+  numberProposal: 2.2
+  name: Common Policy X.509 Certificate and Certificate Revocation List (CRL) Profiles v2.2
+  date: 9/30/2022
+  url: /docs/archived/fpki-common-profile-22.pdf
+  status: post
+  remove: 10/25/2027
+
+- category: Common Certificate Policy
+  numberProposal: 2.8
+  name: X.509 Certificate Policy For The U.S. FPKI Common Policy Framework v2.8
+  date: 10/25/2024
+  url: /docs/archived/fpki-x509-cert-policy-common-28.pdf
+  status: post
+  remove: 10/25/2027
+
+- category: Common Change Proposal
+  numberProposal: 2024-06
+  name: Proposal 2024-06 | Modify role-based certificate requirements for delegated digital signature uses
+  description: Add requirements around role-based certificates that can be used to support delegated digital signatures that convey the authority of a given role to specific delegates.
+  date: 10/16/2024
+  url: /docs/archived/fpki-common-cp-2406.pdf
+  status: post
+  remove: 10/16/2027
+
+- category: Common Change Proposal
+  numberProposal: 2024-07
+  name: Proposal 2024-07 | Trusted Agent and Key Recovery Role/Responsibility Clarifications 
+  description: Clarify the description of the trusted agent role in order to ensure that it is not confused with a standard trusted roles and thus does not require an equivalent background investigation. Additionally, clarify seemingly conflicting policy language regarding Key Recovery Officials (KROs) and Third Party Key Recovery Requestors to include their responsibilities. 
+  date: 10/25/2024
+  url: /docs/archived/fpki-common-cp-2407.pdf
+  status: post
+  remove: 10/25/2027
+
+- category: Common Change Proposal
+  numberProposal: 2024-08
+  name: Proposal 2024-08 | Clarifications on Private Key Recovery Storage and Private Key Activation 
+  description: Clarify the key storage requirements for Third-Party recovery of PIV key management keys that were originally issued to subscribers asserting common-hardware policies. Additionally, clarify requirements for securely recording private key activation data.
+  date: 10/25/2024
+  url: /docs/archived/fpki-common-cp-2408.pdf
+  status: post
+  remove: 10/25/2027
+
+- category: Federal Bridge Certificate Policy
+  numberProposal: 3.5
+  name: X.509 Certificate Policy For The Federal Bridge CA (FBCA) v3.5
+  date: 10/25/2024
+  url: /docs/archived/fpki-x509-cert-policy-fbca-35.pdf
+  status: post
+  remove: 10/25/2027
+  
+- category: Federal Bridge Change Proposal
+  numberProposal: 2024-09
+  name: Proposal 2024-09 | Trusted Agent and Key Recovery Role/Responsibility Clarifications 
+  description: Clarify the description of the trusted agent role in order to ensure that it is not confused with a standard trusted roles and thus does not require an equivalent background investigation. Additionally, clarify seemingly conflicting policy language regarding Key Recovery Officials (KROs) and Third Party Key Recovery Requestors to include their responsibilities.
+  date: 10/25/2024
+  url: /docs/archived/fpki-fbca-cp-2409.pdf
+  status: post
+  remove: 10/25/2027
+
+- category: Federal Bridge Change Proposal
+  numberProposal: 2024-10
+  name: Proposal 2024-10 | Clarifications on Private Key Recovery Storage and Private Key Activation 
+  description: Clarify the key storage requirements for Third-Party recovery of PIV key management keys that were originally issued to subscribers asserting common-hardware policies. Additionally, clarify requirements for securely recording private key activation data.
+  date: 10/25/2024
+  url: /docs/archived/fpki-fbca-cp-2410.pdf
+  status: post
+  remove: 10/25/2027
+
 - category: FPKIMA Audit Letter
   numberProposal: 2023
   name: FPKIMA Audit Letter 2023

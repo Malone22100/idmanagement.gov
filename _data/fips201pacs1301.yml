@@ -53,10 +53,10 @@
  
 - category: 13.01
   fipsstatus: Approved
-  infrastructure: AMAG Symmetry Professional v9.3
+  infrastructure: AMAG Symmetry Professional v9.8
   infraurl: /docs/apl-10143-Amag-IDOne.pdf
   infraapl: 10143
-  validation: Identity One Validation System for AMAG Symmetry Professional v9.3
+  validation: Identity One Validation System for AMAG Symmetry Professional v9.8
   valurl: /docs/apl-10144-Amag-IDOne-validation.pdf
   valapl: 10144
   reader1: Veridt Bio Dual Contact/Contactless Keypad Reader
