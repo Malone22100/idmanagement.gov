@@ -333,7 +333,13 @@ Please return to this section often to ensure you are accessing the most up-to-d
 
 <hr>
 
-- No document updates at this time. 
+|  Name	     | Updated by |
+|:-----------|:------------:|
+| SP 800-63A | TBD |
+| SP 800-63B | TBD |	
+| SP 800-63C | TBD |
+| SP 800-73  | TBD |
+| SP 800-78  | TBD |
 
 <br><br>
 
