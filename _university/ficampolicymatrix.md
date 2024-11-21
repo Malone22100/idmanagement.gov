@@ -335,11 +335,11 @@ Please return to this section often to ensure you are accessing the most up-to-d
 
 |  Name	     | Updated by |
 |:-----------|:------------:|
-| [SP 800-63A](https://csrc.nist.gov/pubs/sp/800/63/a/4/2pd){:target="_blank"}{:rel="noopener noreferrer"}{:class="usa-link usa-link--external"} | TBD |
-| [SP 800-63B](https://csrc.nist.gov/pubs/sp/800/63/b/4/2pd){:target="_blank"}{:rel="noopener noreferrer"}{:class="usa-link usa-link--external"} | TBD |	
-| [SP 800-63C](https://csrc.nist.gov/pubs/sp/800/63/c/4/2pd){:target="_blank"}{:rel="noopener noreferrer"}{:class="usa-link usa-link--external"} | TBD |
+| [SP 800-63A-4](https://csrc.nist.gov/pubs/sp/800/63/a/4/2pd){:target="_blank"}{:rel="noopener noreferrer"}{:class="usa-link usa-link--external"} | TBD |
+| [SP 800-63B-4](https://csrc.nist.gov/pubs/sp/800/63/b/4/2pd){:target="_blank"}{:rel="noopener noreferrer"}{:class="usa-link usa-link--external"} | TBD |	
+| [SP 800-63C-4](https://csrc.nist.gov/pubs/sp/800/63/c/4/2pd){:target="_blank"}{:rel="noopener noreferrer"}{:class="usa-link usa-link--external"} | TBD |
 | [SP 800-73-5 Pt 1](https://csrc.nist.gov/pubs/sp/800/73/pt1/5/final){:target="_blank"}{:rel="noopener noreferrer"}{:class="usa-link usa-link--external"}, [SP 800-73-5 Pt 2](https://csrc.nist.gov/pubs/sp/800/73/pt2/5/final){:target="_blank"}{:rel="noopener noreferrer"}{:class="usa-link usa-link--external"}, [SP 800-73-5 Part 3](https://csrc.nist.gov/pubs/sp/800/73/pt3/5/final){:target="_blank"}{:rel="noopener noreferrer"}{:class="usa-link usa-link--external"}  | TBD |
-| [SP 800-78](https://csrc.nist.gov/pubs/sp/800/78/5/final){:target="_blank"}{:rel="noopener noreferrer"}{:class="usa-link usa-link--external"}  | TBD |
+| [SP 800-78-5](https://csrc.nist.gov/pubs/sp/800/78/5/final){:target="_blank"}{:rel="noopener noreferrer"}{:class="usa-link usa-link--external"}  | TBD |
 
 <br><br>
 
