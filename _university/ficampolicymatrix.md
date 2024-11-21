@@ -77,7 +77,7 @@ Use the legend below in conjuction with the FICAM policy map to navigate to your
 
 <br>
 
-[![Visual overview of the laws, policies and standards relevant to FICAM, organized according to the government body that produced it. The relationships between the documents are illustrated by arrows connecting them.]({{site.baseurl}}/assets/policy-matrix/policy_matrix_map.webp)]({{site.baseurl}}/university/policymap/){:target="_blank"}{:rel="noopener noreferrer"}
+[![Visual overview of the laws, policies and standards relevant to FICAM, organized according to the government body that produced it. The relationships between the documents are illustrated by arrows connecting them.]({{site.baseurl}}/assets/policy-matrix/policy_matrix_map_no_key.webp)]({{site.baseurl}}/university/policymap/){:target="_blank"}{:rel="noopener noreferrer"}
 
 ## Laws and Directives
 
