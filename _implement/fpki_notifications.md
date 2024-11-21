@@ -120,7 +120,8 @@ The page lists the certification authorities *currently* used for Personal Ident
 {% include alert-info.html content="This table was last updated on <b>August  2, 2023</b>. Please email [fpki@gsa.gov](mailto:fpki@gsa.gov) to suggest an update or correction." %} 
 
 <br>
-  
+{% comment %}
+<!-- This table is commented out because it is out of date and cannot be kept accurate. -->
 <table class="usa-table--borderless piv-table">
   <thead class="usa-sr-only">
     <tr>
@@ -144,6 +145,7 @@ The page lists the certification authorities *currently* used for Personal Ident
     {% endfor %}<!--category-->
   </tbody>
 </table>
+{% endcomment %}
 
 ## Active Issuing CA Certificate Details 
 These CA certificates are actively issuing PIV , PIV-I and/or Derived PIV authentication certificates.  
