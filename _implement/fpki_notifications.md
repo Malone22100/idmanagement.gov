@@ -150,7 +150,7 @@ The page lists the certification authorities *currently* used for Personal Ident
 {% endcomment %}
 
 ### Active Issuing CA Certificate Details 
-These CA certificates are actively issuing PIV , PIV-I and/or Derived PIV authentication certificates.  
+These CAs associated with these CA certificates are actively issuing PIV , PIV-I and/or Derived PIV authentication certificates.  
 
 #### Department of Veterans Affairs CA
 - Subject: OU = Department of Veterans Affairs CA, OU = Certification Authorities, OU = Department of Veterans Affairs, O = U.S. Government, C = US
