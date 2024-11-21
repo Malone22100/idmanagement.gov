@@ -107,20 +107,23 @@ Most CA certificates will also have an SIA extension with a URI to the CA certif
 The FPKI Graph was built by using the same tools and code as the [Berkley ICSI SSL Notary](https://www.icsi.berkeley.edu/icsi/node/5065){:target="_blank"}{:rel="noopener noreferrer"}. 
 
 ## PIV Issuer Information
-
+{% comment %}
 {% assign branches = "" | split: "" %}
 {% for piv in site.data.fpkicustomers %}
   {% assign branch = piv.branch | strip %}
   {% assign branches = branches | push: branch | uniq | sort %}
 {% endfor %}
 {% assign branches = branches | uniq | sort %}
+{% endcomment %}
 
 The page lists the certification authorities *currently* used for Personal Identity Verification (PIV), PIV-Interoperable (PIV-I), or Derived PIV (dPIV) authentication certificates for federal government departments and agencies.  Agency system administrators can leverage this list to configure systems and services for cross-government trust.
 
-{% include alert-info.html content="This table was last updated on <b>August  2, 2023</b>. Please email [fpki@gsa.gov](mailto:fpki@gsa.gov) to suggest an update or correction." %} 
+{% comment %}
+{% include alert-info.html content="This list was last updated on <b>August  2, 2023</b>. Please email [fpki@gsa.gov](mailto:fpki@gsa.gov) to suggest an update or correction." %} 
 
 <br>
-  
+
+<!-- This table is commented out because it is out of date and cannot be kept accurate. -->
 <table class="usa-table--borderless piv-table">
   <thead class="usa-sr-only">
     <tr>
@@ -144,9 +147,10 @@ The page lists the certification authorities *currently* used for Personal Ident
     {% endfor %}<!--category-->
   </tbody>
 </table>
+{% endcomment %}
 
-## Active Issuing CA Certificate Details 
-These CA certificates are actively issuing PIV , PIV-I and/or Derived PIV authentication certificates.  
+### Active Issuing CA Certificate Details 
+These CAs associated with these CA certificates are actively issuing PIV , PIV-I and/or Derived PIV authentication certificates.  
 
 #### Department of Veterans Affairs CA
 - Subject: OU = Department of Veterans Affairs CA, OU = Certification Authorities, OU = Department of Veterans Affairs, O = U.S. Government, C = US
