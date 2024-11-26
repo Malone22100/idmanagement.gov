@@ -74,8 +74,6 @@ subnav:
 
 <!-- Start of Header -->
 <img src="{{site.baseurl}}/assets/img/logo-gsa.png" width="64" height='64' align="left" style="border:none" alt="U.S. General Services Administration Logo"> 
-<img src="{{site.baseurl}}/assets/unifyia/unifyia-logo.png" height='64' align="left" style="border:none" alt="Unifyia Logo"> 
-<br><br><br>
   
 <div class="usa-accordion usa-accordion--bordered">
   <h4 class="usa-accordion__heading">
