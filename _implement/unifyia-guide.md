@@ -71,7 +71,7 @@ subnav:
   - text: Glossary
     href: "#glossary"
 ---
-
+<!-- code copied from Laxmi1975 patch 1 - CJB -->
 <!-- Start of Header -->
 <img src="{{site.baseurl}}/assets/img/logo-gsa.png" width="64" height='64' align="left" style="border:none" alt="U.S. General Services Administration Logo"> 
   
