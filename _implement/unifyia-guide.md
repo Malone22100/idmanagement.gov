@@ -204,7 +204,7 @@ The document covers:
 
 ## Scope
 
-<p align="justify">Although the Unifyia platform supports issuing PIV + passkeys (FIDO2) across multiple form factors, this document focuses specifically on passkeys (FIDO2) issuance through credential providers/authenticators (such as external security keys and smart cards) and digital wallets (via the Unifyia ID Wallet app on iOS and Android). The following passkey (FIDO2) issuance use cases are covered:</p>
+<p align="justify">Although the Unifyia platform supports issuing PIV + passkeys (FIDO2) across multiple form factors, this document focuses specifically on passkeys (FIDO2) issuance through credential providers/authenticators (such as external security keys and smart cards) and digital wallets (via the Unifyia ID Wallet app on iOS and Android). The following passkeys (FIDO2) issuance use cases are covered:</p>
 
 - **User self-issuance of passkeys (FIDO2)** by authenticating with IDP credentials
 - **Self-issuance of derived passkeys (FIDO2)** using PIV credentials
