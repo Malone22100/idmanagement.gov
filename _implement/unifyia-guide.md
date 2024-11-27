@@ -290,7 +290,7 @@ This document does not include detailed system configurations required to suppor
 **How do Passkeys (FIDO2) Work?**
 
 - **Public-private key cryptography:** When a user registers for a service using passkeys (FIDO2), the device generates a key pair - a private key that remains securely on the user’s device and a public key that is shared with the service. The private key is never exposed or transmitted, significantly enhancing security.
-- **Authentication\*:** To log in, the user verifies their identity using biometrics (e.g., fingerprint, facial recognition), a PIN, a pattern, or a hardware token like a security key. The private key then signs an authentication challenge from the service, proving the user’s identity without sharing sensitive information. The service verifies the signed challenge using the stored public key, confirming the user's identity.
+- **Authentication:** To log in, the user verifies their identity using biometrics (e.g., fingerprint, facial recognition), a PIN, a pattern, or a hardware token like a security key. The private key then signs an authentication challenge from the service, proving the user’s identity without sharing sensitive information. The service verifies the signed challenge using the stored public key, confirming the user's identity.
 
 **Best Practices for Implementing Passkeys (FIDO2)**
 
