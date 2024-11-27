@@ -1194,7 +1194,7 @@ The table below outlines the credential lifecycle actions available to an operat
 
 This section explains the various lifecycle actions that a user can manage for the identity devices, applications, and issued credentials based on the status of the identity device.
 
-Log into the platform using operator credentials. Select **Identities** from the menu on the left side menu. On this page, you can view all the issued identities and their credentials. Refer to the images in the section [Operator Lifecycle Actions](#operator-lifecycle-actions) for a detailed view of the granular lifecycle management.
+Log into the platform using user credentials. Select **Identities** from the menu on the left side menu. On this page, you can view all the issued identities and their credentials. Refer to the images in the section [Operator Lifecycle Actions](#operator-lifecycle-actions) for a detailed view of the granular lifecycle management.
 
 **Identity Device Lifecycle Actions**
 
