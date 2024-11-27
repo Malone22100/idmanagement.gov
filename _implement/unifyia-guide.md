@@ -1101,7 +1101,7 @@ Log into the platform using operator credentials. Navigate to **Management** > *
 </thead> 
 <tr>
 <td><b>Suspend</b></td>
-<td>When an active device (smart card, security key) is lost/damaged, you can suspend the device to avoid misuse. To suspend the device, select the identity, and select <b>Actions</b> > <b>Susoend</b>. Select one of the listed reasons to suspend the device and confirm. </td> 
+<td>When an active device (smart card, security key) is lost/damaged, you can suspend the device to avoid misuse. To suspend the device, select the identity, and select <b>Actions</b> > <b>Suspend</b>. Select one of the listed reasons to suspend the device and confirm. </td> 
 </tr>
 <tr>
 <td><b>Reactivate</b></td>
