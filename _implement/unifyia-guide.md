@@ -908,7 +908,7 @@ This section outlines the process for users to authenticate to the integrated re
 
 ![Authentication - Scan QR Code Using Mobile]({{site.baseurl}}/assets/unifyia/48-a-user-auth-rp-okta-fido2.png)
 
-1. If your phone camera has the native capacity to scan the QR code, scan the QR code to proceed and authenticate in the browser.
+1. If your phone camera has the native capacity to scan the QR code, scan the QR code to proceed and authenticate in the browser. You may also use a QR code scanner app to scan the code.
 2. Hold the smart card/USB security key (passkeys (FIDO2)) flat against the NFC sweet spot (NFC antenna) on your mobile device and enter the PIN when prompted. Hold it until you see the message that the verification is complete.
 3. You are logged into the relying party application.
 
