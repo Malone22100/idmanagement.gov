@@ -610,5 +610,15 @@
   valurl: /docs/apl-10146-genetec-ti-validation.pdf
   valapl: 10146
 
+# added 12/03/2024 - CJB
+- category: 13.01
+  fipsstatus: Approved
+  infrastructure: NAPCO CA4K Enterprise Access Control
+  infraurl: /docs/apl-10192-napco-ca4k.pdf
+  infraapl: 10192
+  validation: Identity One Validation System for NAPCO CA4K
+  valurl: /docs/apl-10193-Identity-one-validation.pdf
+  valapl: 10193
+
 
 
