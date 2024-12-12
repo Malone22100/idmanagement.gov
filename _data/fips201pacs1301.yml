@@ -53,10 +53,10 @@
  
 - category: 13.01
   fipsstatus: Approved
-  infrastructure: AMAG Symmetry Professional v9.3
+  infrastructure: AMAG Symmetry Professional v9.8
   infraurl: /docs/apl-10143-Amag-IDOne.pdf
   infraapl: 10143
-  validation: Identity One Validation System for AMAG Symmetry Professional v9.3
+  validation: Identity One Validation System for AMAG Symmetry Professional v9.8
   valurl: /docs/apl-10144-Amag-IDOne-validation.pdf
   valapl: 10144
   reader1: Veridt Bio Dual Contact/Contactless Keypad Reader
@@ -609,6 +609,16 @@
   validation: TI Entry Point Validation System for Genetec Security Center - Synergis 10146
   valurl: /docs/apl-10146-genetec-ti-validation.pdf
   valapl: 10146
+
+# added 12/03/2024 - CJB
+- category: 13.01
+  fipsstatus: Approved
+  infrastructure: NAPCO CA4K Enterprise Access Control
+  infraurl: /docs/apl-10192-napco-ca4k.pdf
+  infraapl: 10192
+  validation: Identity One Validation System for NAPCO CA4K
+  valurl: /docs/apl-10193-Identity-one-validation.pdf
+  valapl: 10193
 
 
 

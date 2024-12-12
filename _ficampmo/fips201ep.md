@@ -147,7 +147,7 @@ All applicants, please complete the following steps:
 10. Include all applicable VPAT statements, [https://www.section508.gov/sell/vpat/](https://www.section508.gov/sell/vpat/){:target="_blank"}{:rel="noopener noreferrer"}{:class="usa-link usa-link--external"} (Mandatory, if applicable).
 11. Include all relevant UL-294 listing documents (Mandatory, if applicable).
 12. Include all applicable FIPS 140-2/140-3 listing documents (Mandatory, if applicable).
-13. Respond to the [Vendor FRTC Questionnaire, v1.0.0]({{site.baseurl}}/docs/vendor-frtc-questions.docx) (Mandatory).
+13. Respond to the [Vendor FRTC Questionnaire, v1.1.0]({{site.baseurl}}/docs/vendor-frtc-questions.docx) (Mandatory).
 14. Submit all completed forms to [fips201ep@gsa.gov](mailto:fips201ep@gsa.gov).
 
 

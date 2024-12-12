@@ -57,7 +57,6 @@ Information on publicly trusted device certificates used for TLS (HTTPS) on the 
 |-----------|:-----------:|:-----------:|:-----------:|  
 | [Department of the Treasury](https://pki.treasury.gov/about_ssp.htm){:target="_blank"}{:rel="noopener noreferrer"}| FPKI SSP | James Moloney (202) 622-5325 or<br/>Joe Gribble (304) 480-7608 | pki.pmo at fiscal.treasury.gov or<br/>_DL_PKIPolicy at treasury.gov |  
 | Entrust Federal Shared Service Provider |	GSA SSP | Patrick Garritty<br/>(703) 901-1388 |	support at entrust.com |
-| Verizon/Cybertrust Federal Shared Service Provider | GSA SSP | Russ Weiser<br/>(801) 631-1685 |	Russ Weiser<br/>(801) 631-1685 |
 | WidePoint Federal Shared Service Provider	| GSA SSP | Jason Holloway, Caroline Godfrey<br/>(800) 816-5548<br/>WCSC-Info at ORC.widepoint.com	| Jim Manchester<br/>(800) 816-5548<br/>PKIPolicy at ORC.widepoint.com |
 
 ## Business Identity Services
@@ -88,6 +87,5 @@ These organizations do not manage identities or credentials for their community 
 | Trust Framework | Customer Service | Tech Support | Community |
 |:-----------:|:-----------:|:-----------:|:-----------:|  
 | [CertiPath](https://certipath.com/services/federated-trust/){:target="_blank"}{:rel="noopener noreferrer"}{:class="usa-link usa-link--external"} | Judith Spencer<br/>(301) 974-4227	| support at certipath.com<br/>(855) 758-0075	| Aerospace and Defense<br/>International |
-| [SAFE Identity](https://makeidentitysafe.com/){:target="_blank"}{:rel="noopener noreferrer"}{:class="usa-link usa-link--external"}| Kyle Neuman<br/>(301) 943-7583 | info at makeidentitysafe.com<br/>(703) 705-2920 | Healthcare<br/>International  |
 | [STRAC](https://www.strac.org/pki/){:target="_blank"}{:rel="noopener noreferrer"}{:class="usa-link usa-link--external"}| Eric Epley<br/>(210) 233-5850	| Ryan Ahlfors<br/>(210) 233-5850 | State and Local |
 | [TSCP, Inc.](https://www.tscp.org/){:target="_blank"}{:rel="noopener noreferrer"}{:class="usa-link usa-link--external"} | Shauna Russell<br/>(202) 769-9114 | Steve Race<br/>(703) 980-8915  | Aerospace and Defense<br/>International |
