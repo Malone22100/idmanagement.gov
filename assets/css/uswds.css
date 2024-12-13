@@ -1,5 +1,6 @@
 @charset "UTF-8";
-/*! uswds v3.10.0 */
+/*! uswds v3.9.0 */
+/*! uswds v3.9.0 */
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 html{
   line-height:1.15;
@@ -2392,12 +2393,59 @@ dfn{
     position:static;
   }
   .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link{
+    color:#005ea2;
+    text-decoration:underline;
+    background-color:transparent;
+    border:0;
+    border-radius:0;
+    box-shadow:none;
+    font-weight:normal;
+    justify-content:normal;
+    text-align:left;
+    margin:0;
+    padding:0;
+    width:auto;
     padding-left:calc(2ex + 0px);
     text-indent:calc((2ex + 0px) * -1);
+    color:#005ea2;
     display:inline-block;
     padding-bottom:1rem;
     padding-top:1rem;
   }
+  .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link:visited{
+    color:#54278f;
+  }
+  .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link:hover{
+    color:#1a4480;
+  }
+  .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link:active{
+    color:#162e51;
+  }
+  .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link:focus{
+    outline:0.25rem solid #2491ff;
+    outline-offset:0rem;
+  }
+  .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link:hover, .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link.usa-button--hover, .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link:disabled:hover, .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link[aria-disabled=true]:hover, .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link:disabled.usa-button--hover, .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link[aria-disabled=true].usa-button--hover, .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link:active, .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link.usa-button--active, .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link:disabled:active, .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link[aria-disabled=true]:active, .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link:disabled.usa-button--active, .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link[aria-disabled=true].usa-button--active, .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link:disabled:focus, .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link[aria-disabled=true]:focus, .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link:disabled.usa-focus, .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link[aria-disabled=true].usa-focus, .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link:disabled, .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link[aria-disabled=true], .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link.usa-button--disabled{
+    background-color:transparent;
+    box-shadow:none;
+    text-decoration:underline;
+  }
+  .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link.usa-button--hover{
+    color:#1a4480;
+  }
+  .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link.usa-button--active{
+    color:#162e51;
+  }
+  .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link:disabled, .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link[aria-disabled=true], .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link:disabled:hover, .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link[aria-disabled=true]:hover, .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link[aria-disabled=true]:focus{
+    color:#757575;
+  }
+}
+@media (max-width: 29.99em) and (forced-colors: active){
+  .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link:disabled, .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link[aria-disabled=true], .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link:disabled:hover, .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link[aria-disabled=true]:hover, .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link[aria-disabled=true]:focus{
+    color:GrayText;
+  }
+}
+@media all and (max-width: 29.99em){
   .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link::before{
     background-image:url("../img/usa-icons/arrow_back.svg");
     background-repeat:no-repeat;
@@ -2423,6 +2471,12 @@ dfn{
       -webkit-mask-size:2ex 2ex;
               mask-size:2ex 2ex;
     }
+  }
+  .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link:visited{
+    color:#54278f;
+  }
+  .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link:hover, .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link:active{
+    color:#1a4480;
   }
   .usa-breadcrumb__list-item:nth-last-child(2) .usa-breadcrumb__link:before{
     bottom:-0.2em;
